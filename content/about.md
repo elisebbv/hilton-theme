@@ -3,9 +3,7 @@ title: About
 image: 'https://via.placeholder.com/1200x800'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+> I write fantasy for fun, read fantasy for research, and occasionally fantasize about how many friends I’d have if I got out of the house more.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -16,15 +14,35 @@ Collaboratively administrate turnkey channels whereas virtual e-tailers. Objecti
   <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Unsplash</a></em>
 </div>
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+## The Backstory
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+People have always told me, “You’re mature for your age,” and “You’re an old soul.” Both very kind, empathetic ways of saying things like “What a dork!” or “You’re such a nerd!” Thanks in part to those kind, empathetic words and people, I’ve come to embrace my old soul (hence The Tea Grannies podcast and my frequent self-imposed use of the term “hermit”). You can usually find me cradling warm mugs of tea all year long, cuddling up in my reading chair with a blanket and a good book. Or crocheting a blanket. Or trying out a new cross-stitching pattern. Or lying on the floor to soothe my achy neck and shoulders and back.
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+But before all of that, I was also just a kid who grew up reading stories about other kids. And along the way, somewhere in my 12th conscious rotation around the sun, I decided that I wanted to create those stories too. I wanted to see girls like me, but also not like me, wielding swords and taming monsters and facing darkness with the courage and strength of lauded heroes. It all started with a little series called The Door Within by Wayne Thomas Batson, which mostly featured two sword-wielding boys, but the second book in the series—The Rise of the Wyrm Lord—featured a young girl with flaming red hair who could take a fencing sword in one hand and hold her own. I read that book, the next one, and then came back to The Rise of the Wyrm Lord and read it all over again before deciding: I want to do that. I want more books like that, so I’m gonna write them too.
+
+> I write fantasy for fun, read fantasy for research, and occasionally fantasize about how many friends I’d have if I got out of the house more.
+
+## The Journey
+
+Now, I’m an editor of those stories. Not only that, but I’m a self-published author of a fantasy trilogy that features girls with swords, women hunting and slaying monsters, men fighting battles and feeling emotions, monsters turning out to be not so different from you or I. I never stopped writing stories, but the stories I wrote about did grow and shift as that 12-year-old girl grew and shifted. People still tell me I’m “mature for my age” and “an old soul.” They also say stuff like “nerd” and “dork,” but I’ve come to see those as terms of endearment, whether they’re intended that way or not. Because if I don’t embrace who I am, no one else will bother to do it either.
+
+And I embraced it whole-heartedly. What started out as a desire to write my own stories expanded and grew into a burning need to help others find their voice as well. Which brings me to…
+
+## The Creds
+
+I am a graduate of SFU from both the editing certificate program (2022), and the creative writing certificate program (2018). I also spent two years as a teaching assistant for SFU’s creative writing certificate program under the inimitable mentorship of Eileen Cook, which launched me into my career as freelance editor. What started as a TA position to assist cohorts of speculative fiction writers with experiencing and providing feedback for creative fiction turned into a burning desire to help more and more authors realize their dreams.
+When I’m not otherwise occupied with digital marketing and web design work, I write fantasy novels and host The Tea Grannies Writing Podcast with Miraya Engelage. We draw from our experiences as writers, our delightful writing group that started in 2018 and is still going strong, and from my editing career to inform, educate, and support writers of all genres in their creative journey.
+
+Alongside all of that, I’ve spent the rest of time (wherever I was able to find it—probably with a time machine?) delving into website design courses, digital marketing courses, and anything I can get my hands on to help out the clients I work with, the readers I write for, the bibliophiles I do life with, and anyone else I meet along the way. I love books, and I love people, and I will continue to do whatever I can to make sure those worlds collide with mine as often as possible.
 
 ![Sea](https://via.placeholder.com/1200x800)
 *Photo by [Alyssa Strohmann](https://via.placeholder.com/1200x800) on [Unsplash](https://via.placeholder.com/1200x800)*
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Affiliations
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+- Editors Canada (Student Affiliate member 2022-2023, and volunteer for website re-development project)
+- The Self Publishing Agency (Editor)
+- Writer’s Block Solutions (Editor, Digital Marketer & Tech Whiz, Writer)
+- Jawbone (Volunteer Editor)
+- The Tea Grannies Podcast (Co-host and co-creator)
+- The Creative Academy (member)

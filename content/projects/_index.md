@@ -1,4 +1,4 @@
 ---
-title: My works
-description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+title: Portfolio
+description: SFF, Speculative Fiction, Podcasting, Memoirs, Blogging, Websites — Let's Work Together!
 ---

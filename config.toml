@@ -1,15 +1,15 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://example.org/"
+baseURL = "https://elisevolkman.com/"
 languageCode = "en-us"
-title = "Hilton"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+title = "Elise Volkman"
+googleAnalytics = "G-7Y2V9C7WHS" # Add your identifier. For example UA-99631805-1.
 paginate = 6
 
 
 [params]
   logo = "" # You can add own logo. For example "/images/logo.png".
-  description = "Hilton is a super simple portfolio theme for Hugo"
+  description = "I'm Elise, a freelance editor, fantasy author, and podcast host."
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -23,35 +23,41 @@ paginate = 6
     weight = 1
 
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
+    identifier = "Services"
+    name = "Services"
+    url = "/services/"
     weight = 2
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Portfolio"
+    url = "/projects/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "About"
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
 
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
     url = "/posts/"
-    weight = 3
+    weight = 6
     hasChildren = true
-
-      [[menu.main]]
-      parent = "Pages"
-      name = "About"
-      url = "/about/"
-      weight = 1
-
-      [[menu.main]]
-      parent = "Pages"
-      name = "Contact"
-      url = "/contact/"
-      weight = 2
 
       [[menu.main]]
       parent = "Pages"
       name = "Elements"
       url = "/elements/"
-      weight = 3
+      weight = 1
 
       # Footer Menu
       [[menu.footer]]
@@ -84,45 +90,43 @@ paginate = 6
       url = "/contact/"
       weight = 5
 
-      [[menu.footer]]
-      identifier = "elements"
-      name = "Elements"
-      url = "/elements/"
-      weight = 6
-
-
   #-------------------------------
   # Author Settings
   [params.author]
-    author__name = "Monica Hilton"
-    author__bio = "So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail."
-    author__avatar = "https://via.placeholder.com/500x500"
+    author__name = "Elise Volkman"
+    author__bio = "I'm Elise, a freelance editor, fantasy author, and podcast host."
+    author__avatar = "images/author-avatar.jpg"
 
   # Social Links
-  [[params.social]]
-    icon = "ion-logo-twitter"
-    name = "Twitter"
-    link = "https://twitter.com"
+    [[params.social]]
+    icon = "ion-logo-instagram"
+    name = "Instagram"
+    link = "https://instagram.com/elise_is_writing"
 
   [[params.social]]
     icon = "ion-logo-facebook"
     name = "Facebook"
-    link = "https://facebook.com"
+    link = "https://facebook.com/elisevolkmanediting/"
 
   [[params.social]]
-    icon = "ion-logo-instagram"
-    name = "Instagram"
-    link = "https://instagram.com"
+    icon = "ion-logo-linkedin"
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/elisevolkman/?originalSubdomain=ca"
 
   [[params.social]]
-    icon = "ion-logo-pinterest"
-    name = "Pinterest"
-    link = "https://pinterest.com"
+    icon = "ion-logo-youtube"
+    name = "YouTube"
+    link = "https://www.youtube.com/channel/UC7JtmODTHbmmcBNfFiNydnA"
+
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://twitter.com/elise_volkman/"
 
   [[params.social]]
     icon = "ion-logo-github"
     name = "Github"
-    link = "https://github.com"
+    link = "https://github.com/elisebbv/"
 
   # Example of adding a new link to the footer:
   # [[params.social]]
@@ -137,9 +141,9 @@ paginate = 6
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "I'm Monica. I will create design that can give you value"
-    hero__description = "So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail."
-    hero__image = "https://via.placeholder.com/1200x800"
+    hero__title = "Let’s make magic together."
+    hero__description = "I'm an editor and author who loves books and helping people. I will do whatever I can to make sure those worlds collide as often as possible."
+    hero__image = "images/hero-image.jpg"
 
 
   #-------------------------------
@@ -148,66 +152,66 @@ paginate = 6
     enable = true
     mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Your email address..."
-    mailchimp__button__text = "Get updates" # Add your button text
+    mailchimp__button__text = "Get Updates" # Add your button text
 
 
   #-------------------------------
   # Projects Settings
   [params.projects]
     enable = true
-    projects__title= "Latest works"
-    projects__description= "I shows only the best websites and portfolios built completely with passion, simplicity & creativity!"
+    projects__title= "Portfolio"
+    projects__description= "SFF, Speculative Fiction, Podcasting, Memoirs, Blogging, Websites — Let's Work Together!"
 
 
   #-------------------------------
   # Testimonials Section
   [params.testimonials]
     enable = true
-    testimonial__title = "What clients say"
+    testimonial__title = "Kind Words"
     testimonial__description = ""
 
   [[params.testimonial_item]]
-    name = "Aspen Carder"
-    image = "https://via.placeholder.com/200x200"
-    designation = "Lettering Artist"
-    link = "https://twitter.com/"
-    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    name = "Simona Moss"
+    image = "images/simona-moss.jpg"
+    designation = "Author of The B Word: And Other Conversations"
+    link = "http://www.simonajaltavilla.com/"
+    content = "Elise and I met several times to read through my manuscript—and just have fun chats! :) She knows my book inside and out, and truly made me feel like what I've written is worthy and important. On many occasions, she left me positive comments throughout the editing process, that reminded me of why I wrote this book—which was incredibly helpful in my moments of doubt."
 
   [[params.testimonial_item]]
-    name = "Lydia Siphron"
-    image = "https://via.placeholder.com/200x200"
-    designation = "Designer"
-    link = "https://facebook.com/"
-    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    name = "Eileen Cook"
+    image = "images/eileen-cook.jpg"
+    designation = "Author of With Malice"
+    link = "https://eileencook.com/"
+    content = "I've had the opportunity to work with Elise both as a writer and as an editor. I worked with her twice through a university level creative writing program, the first time I have ever continued with someone for a second year. Elise has a great eye for editing. She's able to balance both a writer's strengths with also ensuring they understand where there are challenges and how to address those. She's kind and supportive, but not afraid to also be honest and direct. This can be hard to find in an editor. The students who worked with her provided frequent feedback about how much they enjoyed working with her and finding her input invaluable. Overall, Elise gracefully balances between the creative and professional sides of the writing industry. I would gladly work with her in the future."
 
   [[params.testimonial_item]]
-    name = "Craig Vaccaro"
-    image = "https://via.placeholder.com/200x200"
-    designation = "Web developer"
-    link = "https://twitter.com/"
-    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    name = "Kyla Girling"
+    image = "images/kyla-girling.jpg"
+    designation = "Managing Editor of Writer’s Block Solutions"
+    link = "https://www.linkedin.com/in/kyla-girling/"
+    content = "I can't recommend working with Elise enough! She's organized, efficient, and diligent; she's a thoughtful problem-solver who takes initiative when she identifies something that needs doing; and above all (and perhaps not surprisingly, considering her educational background) she communicates clearly and effectively both verbally and in writing. We consider ourselves very lucky to have Elise (and her skills, knowledge, and abilities) on our team."
 
   [[params.testimonial_item]]
-    name = "Anika Calzoni"
-    image = "https://via.placeholder.com/200x200"
-    designation = "Lettering Artist"
-    link = "https://facebook.com/"
-    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    name = "Adrienne Huston"
+    image = "images/adrienne-huston.jpg"
+    designation = "Freelance Editor"
+    link = "https://www.magnoliaediting.ca/"
+    content = "Elise's commitment to the writing and editing community is extensive; whether she is writing, editing, or hosting her podcast, she is a positive and gentle spirit that nurtures everyone around her. Her clients are lucky to have her on their side as her generosity and kindness apply equally to everyone in her life. She and I studied together at SFU, bumped into each other on social media, and continue to support one another in our network. She always impresses me with her knowledge of her genre, writing craft, and editing mechanics. When you hire Elise, you can be sure you are getting a top-notch editor who will do her utmost for you."
 
   [[params.testimonial_item]]
-    name = "Marcus Botosh"
-    image = "https://via.placeholder.com/200x200"
-    designation = "Full Stack Designer"
-    link = "https://twitter.com/"
-    content = "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    name = "Miraya Engelage"
+    image = "images/miraya-engelage.jpg"
+    designation = "Author, Co-Host of The Tea Grannies Podcast"
+    link = "https://www.mirayaengelage.ca/"
+    content = "Elise's own talent for writing and her attention to detail both inform her editing approach. She will not only help you improve your manuscript, but will help make you a better writer."
 
 
   #-------------------------------
   # Blog Section
   [params.blog]
     enable = true
-    blog__title = "Recent Posts"
-    blog__description = ""
+    blog__title = "Recent Musings"
+    blog__description = "Sign up for email updates about these posts and exclusive subscriber content!"
 
 
   #-------------------------------
@@ -216,20 +220,20 @@ paginate = 6
     enable = true
 
   [[params.gallery_image]]
-    image_alt = "Rest"
-    image_url = "https://via.placeholder.com/800x800"
+    image_alt = "Mug of tea beside writing tablet on blue background"
+    image_url = "images/footer-1.jpg"
 
   [[params.gallery_image]]
-    image_alt = "Lifestyle"
-    image_url = "https://via.placeholder.com/800x800"
+    image_alt = "Writing tablet on top of several open books"
+    image_url = "images/footer-2.jpg"
 
   [[params.gallery_image]]
-    image_alt = "Hobby"
-    image_url = "https://via.placeholder.com/800x800"
+    image_alt = "The Tea Grannies, Miraya and Elise, smiling"
+    image_url = "images/footer-3.jpg"
 
   [[params.gallery_image]]
-    image_alt = "Notes"
-    image_url = "https://via.placeholder.com/800x800"
+    image_alt = "Book 'Through Fire and Ruin' on top of writing tablet on black background"
+    image_url = "images/footer-4.jpg"
 
 
   #-------------------------------
