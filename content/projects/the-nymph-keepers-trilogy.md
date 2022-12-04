@@ -1,7 +1,7 @@
 ---
 title: The Nymph Keepers Trilogy
 date: 2022-01-09 08:01:35 +0300
-subtitle: Fantasy
+subtitle: Fantasy (Author)
 image: 'images/the-nymph-keepers-trilogy.jpg'
 ---
 

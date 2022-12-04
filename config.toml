@@ -94,8 +94,8 @@ paginate = 6
   # Author Settings
   [params.author]
     author__name = "Elise Volkman"
-    author__bio = "I'm Elise, a freelance editor, fantasy author, and podcast host."
-    author__avatar = "images/author-avatar.jpg"
+    author__bio = "I'm an editor and author who loves books and helping people. I'll do whatever I can to make sure those worlds collide as often as possible."
+    author__avatar = "/images/author-avatar.jpg"
 
   # Social Links
     [[params.social]]
@@ -142,15 +142,15 @@ paginate = 6
   [params.hero]
     enable = true
     hero__title = "Let’s make magic together."
-    hero__description = "I'm an editor and author who loves books and helping people. I will do whatever I can to make sure those worlds collide as often as possible."
-    hero__image = "images/hero-image.jpg"
+    hero__description = "I'm an editor and author who loves books and helping people. I'll do whatever I can to make sure those worlds collide as often as possible."
+    hero__image = "/images/hero-image.jpg"
 
 
   #-------------------------------
   # Newsletter Settings
   [params.mailchimp]
     enable = true
-    mailchimp__identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__identifier = "b0545c87.sibforms.com/serve/MUIEAPlGe9WLJi2sDdJ1lonWY-1EU_OaNwmx1vgW1iqif4GIukoPQDJNH7jjx2prV6VLXZ7zev8NqIo0iRTvR9M8bfRG_sE7Q9WPybIqToD6ZFU6_dGqvPFCyBWp39khaSzXXZH3fRqhsZvDQMC465NXurc6tan9XA_Sr9WBWges-bqhEmwoSXN_GkNTqY1yP75QRkqYS_37k45O" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Your email address..."
     mailchimp__button__text = "Get Updates" # Add your button text
 
@@ -221,19 +221,19 @@ paginate = 6
 
   [[params.gallery_image]]
     image_alt = "Mug of tea beside writing tablet on blue background"
-    image_url = "images/footer-1.jpg"
+    image_url = "/images/footer-1.jpg"
 
   [[params.gallery_image]]
     image_alt = "Writing tablet on top of several open books"
-    image_url = "images/footer-2.jpg"
+    image_url = "/images/footer-2.jpg"
 
   [[params.gallery_image]]
     image_alt = "The Tea Grannies, Miraya and Elise, smiling"
-    image_url = "images/footer-3.jpg"
+    image_url = "/images/footer-3.jpg"
 
   [[params.gallery_image]]
     image_alt = "Book 'Through Fire and Ruin' on top of writing tablet on black background"
-    image_url = "images/footer-4.jpg"
+    image_url = "/images/footer-4.jpg"
 
 
   #-------------------------------

@@ -1,7 +1,7 @@
 ---
 title: Through Fire and Ruin
 date: 2022-01-10 08:01:35 +0300
-subtitle: New Adult Fantasy Romance
+subtitle: New Adult Fantasy Romance (Editor)
 image: 'images/through-fire-and-ruin.jpg'
 ---
 
