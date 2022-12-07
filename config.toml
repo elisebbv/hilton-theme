@@ -23,15 +23,15 @@ paginate = 6
     weight = 1
 
   [[menu.main]]
-    identifier = "Services"
-    name = "Services"
-    url = "/services/"
+    identifier = "projects"
+    name = "My Work"
+    url = "/projects/"
     weight = 2
 
   [[menu.main]]
-    identifier = "projects"
-    name = "Portfolio"
-    url = "/projects/"
+    identifier = "Services"
+    name = "Services"
+    url = "/services/"
     weight = 3
 
   [[menu.main]]
@@ -142,7 +142,7 @@ paginate = 6
   [params.hero]
     enable = true
     hero__title = "Let’s make magic together."
-    hero__description = "I'm an editor and author who loves books and helping people. I'll do whatever I can to make sure those worlds collide as often as possible."
+    hero__description = "My editorial feedback is strengths first, revisions to follow. You need to know what’s working in order to fix what’s not. You’re a reader or a writer with a need for a story? I’m an editor and author of speculative fiction. Together, we can make magic happen."
     hero__image = "/images/hero-image.jpg"
 
 
@@ -159,7 +159,7 @@ paginate = 6
   # Projects Settings
   [params.projects]
     enable = true
-    projects__title= "Portfolio"
+    projects__title= "My Work"
     projects__description= "SFF, Speculative Fiction, Podcasting, Memoirs, Blogging, Websites — Let's Work Together!"
 
 
@@ -211,7 +211,7 @@ paginate = 6
   [params.blog]
     enable = true
     blog__title = "Recent Musings"
-    blog__description = "Sign up for email updates about these posts and exclusive subscriber content!"
+    blog__description = "Sign up for email updates about these posts and exclusive subscriber content."
 
 
   #-------------------------------

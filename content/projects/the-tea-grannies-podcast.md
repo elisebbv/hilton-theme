@@ -2,29 +2,23 @@
 title: The Tea Grannies Podcast
 date: 2022-01-08 08:01:35 +0300
 subtitle: Writing & Editing Podcast (Co-Host & Co-Founder)
-image: 'images/the-tea-grannies-podcast.jpg'
+image: '/images/the-tea-grannies-podcast.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+> Miraya Engelage and Elise Volkman bring you writing, editing, and reading tips from the tea-tables of their living rooms. Whether you're an experienced author or new writer, pour yourself a cup of tea and join us for discussions on first drafts, querying, and everything in between.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-  </div>
-  <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Unsplash</a></em>
-</div>
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
+    <img src="/images/the-tea-grannies-podcast.jpg" loading="lazy">
+    <img src="/images/footer-3.jpg" loading="lazy">
+    <img src="/images/season-three-wrapup.png" loading="lazy">
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
+Miraya and I met in 2018 when we both apparated into the Speculative Fiction cohort under the guidance of Eileen Cook. What started as a mandatory classmate connection turned into a friendship that transcends age, distance, and whatever other weird barriers society places on people. Cohort meetings morphed into a monthly writing group that continues going strong to this day. And at some point, we looked back and realized we’d been messaging each other daily ever since: about writing, about editing, about books, about life.
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+Call it compounded insanity, osmosis, or a psychic connection — whatever you want. Sometime in 2021 we both had a wild, implausible, silly idea: to start a podcast! Despite the grade-school feedback that continues to haunt me to this day (“Elise is a great asset to the class, but I wish she would speak up more!”), and Miraya’s and my mutual social anxiety, we did it. In May 2021, we launched The Tea Grannies Podcast, and it’s been a _blast_.
+
+If you’re a writer, reader, editor, or all-around bookworm looking for tips, commisteration, and a lot of good laughs, have we got a show for you. Pour yourself a cup of tea and let's get started! ([Available wherever you listen to podcasts.](https://shows.acast.com/the-tea-grannies))
+
+<iframe src="https://embed.acast.com/6046862044bc23628cfd7846?feed=true" frameBorder="0" width="100%" height="500px"></iframe>

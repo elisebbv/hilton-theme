@@ -3,20 +3,21 @@ title: Services
 image: ''
 ---
 
-> I love books and helping people. I'll do whatever I can to make sure those worlds collide as often as possible.
-
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/through-fire-and-ruin.jpg" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" alt="Waiting for Rainbows" loading="lazy">
-    <img src="https://via.placeholder.com/1200x800" alt="Maria's Italian Cucina" loading="lazy">
+    <img src="/images/writing-sample.jpg" loading="lazy">
+    <img src="/images/shadow-light-palette.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Unsplash</a></em>
 </div>
 
-## What Are You Hoping For?
+> I offer manuscript consultations for the exploring author and in-depth editing services for authors with specific goals for their manuscript.
 
-I offer manuscript consultations for the exploring author and in-depth editing services for authors with specific goals for their manuscript.
+No sure what you need? No worries! Whether you've got it all sorted or you're still figuring things out, you can request a free sample edit of your manuscript to see if we’ll be a good fit. All I ask is that you have a completed draft of your story ready for me before you make your request.
+
+  <div class="section__navigation" style="padding-top: 0; padding-bottom: 100px;">
+    <a href="/contact" class="button button--primary section-button">Let’s Make Magic Together</a>
+  </div>
 
 ### Manuscript Consultation
 A manuscript consultation provides you with a high-level overview of how to strengthen and improve your story. This is a great budget option for authors who just need a little direction with where to start, or where to go next.
@@ -46,25 +47,20 @@ A proofread is the final stage of editing after your book design has been finali
 Includes:
 - A PDF of your manuscript with corrections and comments on any remaining errors such as typos, layout issues, spacing, or other small errors introduced at any point in the editing or design process
 
-### Other Services
-
-If you'd like assistance with drafting or rewriting copy for your website, I'd love to help! I have experience with Wordpress, Hugo, Wix, and Squarespace.
-
-![Sea](https://via.placeholder.com/1200x800)
-*Photo by [Alyssa Strohmann](https://via.placeholder.com/1200x800) on [Unsplash](https://via.placeholder.com/1200x800)*
+  <div class="section__navigation" style="padding-top: 0; padding-bottom: 100px;">
+    <a href="/contact" class="button button--primary section-button">Contact Me for More Info</a>
+  </div>
 
 ## Affiliations
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/editors-canada-affiliate.jpg" loading="lazy">
-    <img src="/images/wbs-affiliate.jpg" loading="lazy">
-    <img src="/images/tspa-affiliate.jpg" loading="lazy">
+    <img src="/images/TCA-affiliate.jpg" loading="lazy">
+    <img src="/images/the-tea-grannies-podcast.jpg" loading="lazy">
   </div>
 </div>
 
-- [Editors Canada](https://www.editors.ca/) (Student Affiliate member 2022-2023, and volunteer for website re-development project)
-- [Writer’s Block Solutions](https://writersblocksolutions.ca/) (Editor, Digital Marketer & Tech Whiz, Writer)
-- [The Self Publishing Agency](https://theselfpublishingagency.com/) (Editor)
-- [The Tea Grannies Podcast](https://shows.acast.com/the-tea-grannies) (Co-host and co-creator)
-- [The Creative Academy](https://creativeacademyforwriters.com/) (member)
+- [Editors Canada](https://www.editors.ca/) (Student Affiliate 2022-2023, and Volunteer for website re-development project)
+- [The Creative Academy](https://creativeacademyforwriters.com/) (Member)
+- [The Tea Grannies Podcast](https://shows.acast.com/the-tea-grannies) (Co-host, Co-creator)

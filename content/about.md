@@ -11,7 +11,6 @@ image: ''
     <img src="/images/tea-candle.jpg" loading="lazy">
     <img src="/images/footer-3.jpg" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Unsplash</a></em>
 </div>
 
 ## The Backstory
@@ -35,18 +34,20 @@ When I’m not otherwise occupied with digital marketing and web design work, I 
 
 Alongside all of that, I’ve spent the rest of time (wherever I was able to find it—probably with a time machine?) delving into website design courses, digital marketing courses, and anything I can get my hands on to help out the clients I work with, the readers I write for, the bibliophiles I do life with, and anyone else I meet along the way. I love books, and I love people, and I will continue to do whatever I can to make sure those worlds collide with mine as often as possible.
 
+  <div class="section__navigation" style="padding-top: 0; padding-bottom: 100px;">
+    <a href="/contact" class="button button--primary section-button">Let’s Make Magic Together</a>
+  </div>
+
 ## Affiliations
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/editors-canada-affiliate.jpg" loading="lazy">
-    <img src="/images/wbs-affiliate.jpg" loading="lazy">
-    <img src="/images/tspa-affiliate.jpg" loading="lazy">
+    <img src="/images/TCA-affiliate.jpg" loading="lazy">
+    <img src="/images/the-tea-grannies-podcast.jpg" loading="lazy">
   </div>
 </div>
 
-- [Editors Canada](https://www.editors.ca/) (Student Affiliate member 2022-2023, and volunteer for website re-development project)
-- [Writer’s Block Solutions](https://writersblocksolutions.ca/) (Editor, Digital Marketer & Tech Whiz, Writer)
-- [The Self Publishing Agency](https://theselfpublishingagency.com/) (Editor)
-- [The Tea Grannies Podcast](https://shows.acast.com/the-tea-grannies) (Co-host and co-creator)
-- [The Creative Academy](https://creativeacademyforwriters.com/) (member)
+- [Editors Canada](https://www.editors.ca/) (Student Affiliate 2022-2023, and Volunteer for website re-development project)
+- [The Creative Academy](https://creativeacademyforwriters.com/) (Member)
+- [The Tea Grannies Podcast](https://shows.acast.com/the-tea-grannies) (Co-host, Co-creator)

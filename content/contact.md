@@ -1,8 +1,17 @@
 ---
 layout: contact
 title: Contact
-image: 'https://via.placeholder.com/1200x800'
+image: ''
 ---
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/contact-hero-letter.jpg" loading="lazy">
+    <img src="/images/contact-hero-tea.png" loading="lazy">
+    <img src="/images/contact-hero-candle.jpg" loading="lazy">
+  </div>
+</div>
+
 To request a free sample edit, please include the following:
 - Title
 - Genre

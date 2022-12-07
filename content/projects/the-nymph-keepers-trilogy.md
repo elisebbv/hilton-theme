@@ -5,26 +5,20 @@ subtitle: Fantasy (Author)
 image: 'images/the-nymph-keepers-trilogy.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+> Nym is the last living nymph in the province of Galia, and Jay is out for her blood.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-  </div>
-  <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Unsplash</a></em>
-</div>
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
+    <a href="https://books2read.com/rootsofblood" target="_blank" style="a hover:"><img src="/images/rob-cover.jpg" loading="lazy" alt="Project"></a>
+    <a href="https://books2read.com/heartoftheforest" target="_blank"><img src="/images/hotf-cover.jpg" loading="lazy" alt="Project"></a>
+    <a href="https://books2read.com/queenofthenymphs" target="_blank"><img src="/images/qotn-cover.jpg" loading="lazy" alt="Project"></a>
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
+I write fantasy and science fiction and have a flair for gothic drama. The Nymph Keepers trilogy is my debut ebook series about a nymph whose people have been hunted to near-extinction for the healing properties in their bodies. She’s supposed to be Jay’s solution to everything. Instead, Jay’s convictions war with his loyalties and he saves her from certain death, becoming a mercenary on the run in the process.
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+Nym knows she can’t trust him — she has the scars to prove it — but she has no other choice. Jay is her only option, and his only option is to return home from banishment, risking imprisonment and even death, if he wants to keep them both safe.
+
+Their meeting sets their lives on a course of intertwining events in which they’ll either have to trust each other or find their own way in a world that wants them both dead.
+
+[Pick a store](https://books2read.com/rootsofblood)! The series is available wherever ebooks are sold!
