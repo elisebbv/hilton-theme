@@ -53,12 +53,6 @@ paginate = 6
     weight = 6
     hasChildren = true
 
-      [[menu.main]]
-      parent = "Pages"
-      name = "Elements"
-      url = "/elements/"
-      weight = 1
-
       # Footer Menu
       [[menu.footer]]
       identifier = "home"
@@ -68,7 +62,7 @@ paginate = 6
 
       [[menu.footer]]
       identifier = "projects"
-      name = "Projects"
+      name = "My Work"
       url = "/projects/"
       weight = 2
 

@@ -48,7 +48,7 @@ Includes:
 - A PDF of your manuscript with corrections and comments on any remaining errors such as typos, layout issues, spacing, or other small errors introduced at any point in the editing or design process
 
   <div class="section__navigation" style="padding-top: 0; padding-bottom: 100px;">
-    <a href="/contact" class="button button--primary section-button">Contact Me for More Info</a>
+    <a href="/projects/editing-portfolio/" class="button button--primary section-button">Check Out My Portfolio</a>
   </div>
 
 ## Affiliations

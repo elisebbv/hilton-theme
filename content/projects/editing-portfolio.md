@@ -1,19 +1,34 @@
 ---
-title: Editing Portfolio
+title: My Editing Portfolio
 date: 2022-01-07 08:01:35 +0300
 subtitle: Developmental, Copy Editing, and Proofreading
-image: 'images/through-fire-and-ruin.jpg'
+image: '/images/contact-hero-tea.png'
 ---
 
-Developmental Edit for new adult fantasy romance by Jennifer Becker and Alice Karpiel.
+I offer manuscript consultations for the exploring author and in-depth editing services for authors with specific goals for their manuscript. That means everything from developmental editing and copy editing down to the nitty gritty of a proofread.
+
+I enjoy a variety of speculative fiction genres, including fantasy, science-fiction, dystopian, gothic, and contemporary, and I like everything from middle grade up to and including adult. Through my work as an editor with [Writer’s Block Solutions](https://writersblocksolutions.ca/), [The Self Publishing Agency](https://theselfpublishingagency.com/), and indie authors, I’ve also had the pleasure of editing cookbooks, memoirs, self-help, and picture books.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
+    <img src="/images/through-fire-and-ruin.jpg" loading="lazy">
+    <img src="/images/shadow-light-palette.jpg" loading="lazy">
+    <img src="/images/howls-moving-castle.jpg" loading="lazy">
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/the-tea-grannies-podcast.jpg" loading="lazy">
+    <img src="/images/footer-3.jpg" loading="lazy">
+    <img src="/images/season-three-wrapup.png" loading="lazy">
+  </div>
+</div>
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/the-tea-grannies-podcast.jpg" loading="lazy">
+    <img src="/images/footer-3.jpg" loading="lazy">
+    <img src="/images/season-three-wrapup.png" loading="lazy">
+  </div>
+</div>
