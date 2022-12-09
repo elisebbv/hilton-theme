@@ -11,24 +11,24 @@ I enjoy a variety of speculative fiction genres, including fantasy, science-fict
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/through-fire-and-ruin.jpg" loading="lazy">
+    <img src="/images/portfolio-through-fire-and-ruin.jpg" loading="lazy">
+    <img src="/images/portfolio-jawbone-vol-1.jpg" loading="lazy">
+    <img src="/images/portfolio-waiting-for-rainbows.jpg" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/portfolio-marias-italian-cucina.jpg" loading="lazy">
+    <img src="/images/portfolio-the-b-word.jpg" loading="lazy">
     <img src="/images/shadow-light-palette.jpg" loading="lazy">
+  </div>
+</div>
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/tea-and-maps.jpg" loading="lazy">
+    <img src="/images/tea-candle.jpg" loading="lazy">
     <img src="/images/howls-moving-castle.jpg" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/the-tea-grannies-podcast.jpg" loading="lazy">
-    <img src="/images/footer-3.jpg" loading="lazy">
-    <img src="/images/season-three-wrapup.png" loading="lazy">
-  </div>
-</div>
-
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/the-tea-grannies-podcast.jpg" loading="lazy">
-    <img src="/images/footer-3.jpg" loading="lazy">
-    <img src="/images/season-three-wrapup.png" loading="lazy">
   </div>
 </div>
