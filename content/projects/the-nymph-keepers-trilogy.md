@@ -2,7 +2,7 @@
 title: The Nymph Keepers Trilogy
 date: 2022-01-09 08:01:35 +0300
 subtitle: Fantasy (Author)
-image: 'images/the-nymph-keepers-trilogy.jpg'
+image: '/images/the-nymph-keepers-trilogy.jpg'
 ---
 
 > Nym is the last living nymph in the province of Galia, and Jay is out for her blood.

@@ -166,39 +166,45 @@ paginate = 6
 
   [[params.testimonial_item]]
     name = "Simona Moss"
-    image = "images/simona-moss.jpg"
+    image = "/images/simona-moss.jpg"
     designation = "Author of The B Word: And Other Conversations"
     link = "http://www.simonajaltavilla.com/"
     content = "Elise and I met several times to read through my manuscript—and just have fun chats! :) She knows my book inside and out, and truly made me feel like what I've written is worthy and important. On many occasions, she left me positive comments throughout the editing process, that reminded me of why I wrote this book—which was incredibly helpful in my moments of doubt."
 
   [[params.testimonial_item]]
     name = "Eileen Cook"
-    image = "images/eileen-cook.jpg"
+    image = "/images/eileen-cook.jpg"
     designation = "Author of With Malice"
     link = "https://eileencook.com/"
     content = "I've had the opportunity to work with Elise both as a writer and as an editor. I worked with her twice through a university level creative writing program, the first time I have ever continued with someone for a second year. Elise has a great eye for editing. She's able to balance both a writer's strengths with also ensuring they understand where there are challenges and how to address those. She's kind and supportive, but not afraid to also be honest and direct. This can be hard to find in an editor. The students who worked with her provided frequent feedback about how much they enjoyed working with her and finding her input invaluable. Overall, Elise gracefully balances between the creative and professional sides of the writing industry. I would gladly work with her in the future."
 
   [[params.testimonial_item]]
+    name = "Bee Wheatley"
+    image = "/images/bee-wheatley.jpg"
+    designation = "Author"
+    link = "https://beewheatley.com/"
+    content = "Elise’s edit letter and track changes are phenomenal and I heart her so much even though I haven't met her in person. I’m so grateful for her wonderful insights. I feel confident that my novel was in excellent hands."
+
+  [[params.testimonial_item]]
     name = "Kyla Girling"
-    image = "images/kyla-girling.jpg"
+    image = "/images/kyla-girling.jpg"
     designation = "Managing Editor of Writer’s Block Solutions"
     link = "https://www.linkedin.com/in/kyla-girling/"
     content = "I can't recommend working with Elise enough! She's organized, efficient, and diligent; she's a thoughtful problem-solver who takes initiative when she identifies something that needs doing; and above all (and perhaps not surprisingly, considering her educational background) she communicates clearly and effectively both verbally and in writing. We consider ourselves very lucky to have Elise (and her skills, knowledge, and abilities) on our team."
 
   [[params.testimonial_item]]
+    name = "Jennifer Becker"
+    image = "/images/jennifer-becker.jpg"
+    designation = "Author of Through Fire & Ruin"
+    link = "https://www.instagram.com/authorjbecker/"
+    content = "Reading through Elise’s notes has been both a pleasure to read and also really motivating while being incredibly helpful as well. I’m so glad to have her feedback on this. Working with her has been amazing. If you’re looking for an editor, especially if you’re writing fantasy, I highly recommend Elise."
+
+  [[params.testimonial_item]]
     name = "Adrienne Huston"
-    image = "images/adrienne-huston.jpg"
+    image = "/images/adrienne-huston.jpg"
     designation = "Freelance Editor"
     link = "https://www.magnoliaediting.ca/"
     content = "Elise's commitment to the writing and editing community is extensive; whether she is writing, editing, or hosting her podcast, she is a positive and gentle spirit that nurtures everyone around her. Her clients are lucky to have her on their side as her generosity and kindness apply equally to everyone in her life. She and I studied together at SFU, bumped into each other on social media, and continue to support one another in our network. She always impresses me with her knowledge of her genre, writing craft, and editing mechanics. When you hire Elise, you can be sure you are getting a top-notch editor who will do her utmost for you."
-
-  [[params.testimonial_item]]
-    name = "Miraya Engelage"
-    image = "images/miraya-engelage.jpg"
-    designation = "Author, Co-Host of The Tea Grannies Podcast"
-    link = "https://www.mirayaengelage.ca/"
-    content = "Elise's own talent for writing and her attention to detail both inform her editing approach. She will not only help you improve your manuscript, but will help make you a better writer."
-
 
   #-------------------------------
   # Blog Section
