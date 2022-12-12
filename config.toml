@@ -88,7 +88,7 @@ paginate = 6
   # Author Settings
   [params.author]
     author__name = "Elise Volkman"
-    author__bio = "I'm an editor and author who loves books and helping people. I'll do whatever I can to make sure those worlds collide as often as possible."
+    author__bio = "I'm an editor and author who loves books and helping people. I'll do whatever I can to make sure those worlds collide as often as possible. I acknowledge the land on which I live and work, the traditional and unceded territory of the Sto:lo, a Halkomelem-speaking people of the Coast Salish."
     author__avatar = "/images/author-avatar.jpg"
 
   # Social Links
@@ -144,7 +144,7 @@ paginate = 6
   # Newsletter Settings
   [params.mailchimp]
     enable = true
-    mailchimp__identifier = "b0545c87.sibforms.com/serve/MUIEAPlGe9WLJi2sDdJ1lonWY-1EU_OaNwmx1vgW1iqif4GIukoPQDJNH7jjx2prV6VLXZ7zev8NqIo0iRTvR9M8bfRG_sE7Q9WPybIqToD6ZFU6_dGqvPFCyBWp39khaSzXXZH3fRqhsZvDQMC465NXurc6tan9XA_Sr9WBWges-bqhEmwoSXN_GkNTqY1yP75QRkqYS_37k45O" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__identifier = "https://b0545c87.sibforms.com/serve/MUIEAPlGe9WLJi2sDdJ1lonWY-1EU_OaNwmx1vgW1iqif4GIukoPQDJNH7jjx2prV6VLXZ7zev8NqIo0iRTvR9M8bfRG_sE7Q9WPybIqToD6ZFU6_dGqvPFCyBWp39khaSzXXZH3fRqhsZvDQMC465NXurc6tan9XA_Sr9WBWges-bqhEmwoSXN_GkNTqY1yP75QRkqYS_37k45O" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Your email address..."
     mailchimp__button__text = "Get Updates" # Add your button text
 
@@ -211,7 +211,7 @@ paginate = 6
   [params.blog]
     enable = true
     blog__title = "Recent Musings"
-    blog__description = "Sign up for email updates about these posts and exclusive subscriber content."
+    blog__description = "I write fantasy for fun, read fantasy for research, and occasionally fantasize about how many friends I’d have if I got out of the house more."
 
 
   #-------------------------------
@@ -239,7 +239,7 @@ paginate = 6
   #-------------------------------
   # Contact Settings
   [params.contact]
-    contact__email = "your@email.com" # Add your form_id
+    contact__email = "mjvznjnv" # Add your form_id
 
     # NOTE
     # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.

@@ -14,7 +14,7 @@
           </div>
 
           <div class="row">
-            {{ range (where .Site.RegularPages "Section" "projects" | first 6 ) }}
+            {{ range (where .Site.RegularPages "Section" "projects" | first 3 ) }}
             <article class="project col col-4 col-d-6 col-t-12">
               <div class="project__content">
                 <a href="{{ .RelPermalink }}" class="project__image">
@@ -39,6 +39,7 @@
   <div class="section__navigation">
     <a href="/projects" class="button button--primary section-button">Explore</a>
   </div>
+
 </section>
 <!-- end projects -->
 {{ end }}

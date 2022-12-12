@@ -15,6 +15,9 @@
           <div class="hero__right">
             <h1 class="hero__title">{{ .Site.Params.hero.hero__title }}</h1>
             <p class="hero__description">{{ .Site.Params.hero.hero__description }}</p>
+
+            <!-- Original form code
+              
             {{ if .Site.Params.mailchimp.enable }}
             <div class="hero__subscribe">
               <form class="subscribe-form validate"
@@ -24,10 +27,14 @@
                 <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL"
                   placeholder="{{ if .Site.Params.mailchimp.mailchimp__input__text }}{{ .Site.Params.mailchimp.mailchimp__input__text }}{{ else }}Email address{{ end }}">
                 <button class="button button--primary button--small subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ .Site.Params.mailchimp.mailchimp__button__text }}</button>
-              </form>
-            </div>
-            {{ end }}
-          </div>
+              {{ end }}
+            </div>          
+            
+            -->
+              
+              <div class="section__navigation" style="padding-top: 15px;">
+                <a href="/contact" class="button button--primary section-button">Hire Me</a>
+              </div>
 
         </div>
       </div>

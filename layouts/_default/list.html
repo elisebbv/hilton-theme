@@ -43,6 +43,13 @@
           <p class="page-description">{{ .Description }}</p>
         {{ end }}
       </div>
+
+      <div class="section__navigation" style="padding-bottom: 50px;">
+        <a href="https://b0545c87.sibforms.com/serve/MUIEAJoaIHDarefwiMHNFZ8SgpmNiMtZK00gGlUwUNgvJirO9qxDi7Ubzj9B1xJaQxTqZJA4MoOM6JRVJzAz_QIi_vZP8FPgdv2VMZ7oAvzc9-ZVAV61l8d919iURAxxnbxBDKWfFXCe-giargn6OqTgtVRdkztpTAqPDw5RDNEcv53PzryeitgaiAyARKRm3ZYwJD2jC6xOA09E" class="button button--primary section-button" target="_blank">Subscribe</a>
+      </div>
+
+      <!-- Original form code
+
       <div>
         {{ if .Site.Params.mailchimp.enable }}
         <div class="hero__subscribe" style="margin-left: auto; margin-right: auto; padding-bottom: 50px;" >
@@ -53,10 +60,13 @@
             <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL"
               placeholder="{{ if .Site.Params.mailchimp.mailchimp__input__text }}{{ .Site.Params.mailchimp.mailchimp__input__text }}{{ else }}Email address{{ end }}">
             <button class="button button--primary button--small subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">{{ .Site.Params.mailchimp.mailchimp__button__text }}</button>
-          </form>
+
         </div>
         {{ end }}
       </div>
+
+      -->          
+
     </div>
   </div>
 </div>

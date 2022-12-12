@@ -16,7 +16,7 @@ image: ''
 No sure what you need? No worries! Whether you've got it all sorted or you're still figuring things out, you can request a free sample edit of your manuscript to see if we’ll be a good fit. All I ask is that you have a completed draft of your story ready for me before you make your request.
 
   <div class="section__navigation" style="padding-top: 0; padding-bottom: 100px;">
-    <a href="/contact" class="button button--primary section-button">Let’s Make Magic Together</a>
+    <a href="/contact" class="button button--primary section-button"><b>Let’s Make Magic Together</b></a>
   </div>
 
 ### Manuscript Consultation
@@ -48,7 +48,7 @@ Includes:
 - A PDF of your manuscript with corrections and comments on any remaining errors such as typos, layout issues, spacing, or other small errors introduced at any point in the editing or design process
 
   <div class="section__navigation" style="padding-top: 0; padding-bottom: 100px;">
-    <a href="/projects/editing-portfolio/" class="button button--primary section-button">Check Out My Portfolio</a>
+    <a href="/projects/editing-portfolio/" class="button button--primary section-button"><b>Check Out My Portfolio</b></a>
   </div>
 
 ## Affiliations
