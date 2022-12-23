@@ -5,7 +5,7 @@ slug: "queen-of-the-nymphs-launch-day"
 description: "Queen of the Nymphs: Book III of the Nymph Keepers is now available wherever ebooks are sold! Find out how the story ends..."
 keywords: [books, writing, queen of the nymphs, the nymph keepers, fantasy, launch day, announcement, publishing day, indie publishing, indie author, trilogy, finale]
 draft: false
-tags: [my books, The Nymph Keepers]
+tags: [writing, The Nymph Keepers, fantasy]
 image:  '/images/queen-of-the-nymphs.jpg'
 ---
 

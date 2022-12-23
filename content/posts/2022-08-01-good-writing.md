@@ -5,7 +5,7 @@ slug: "good-writing"
 description: "I can count on my hand the number of books I've read this year that have made me want to write."
 keywords: [writing, inspiration, book reviews, fantasy, romance, mystery]
 draft: false
-tags: [writing, book reviews]
+tags: [writing, book reviews, fantasy]
 image:  '/images/howls-moving-castle.jpg'
 ---
 

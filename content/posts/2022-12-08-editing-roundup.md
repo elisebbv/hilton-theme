@@ -3,7 +3,7 @@ title: "Unexpectedly Expected: 2022 Editing Update"
 date: 2022-12-05T15:35:44-08:00
 slug: "unexpectedly-expected-editing-2022"
 description: "What have I been editing lately?"
-tags: [developmental editing, copy editing, proofreading]
+tags: [editing]
 image:  '/images/tea-and-maps.jpg'
 ---
 

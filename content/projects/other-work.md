@@ -21,7 +21,7 @@ Other Submissions
 - [Pulling the Plug](https://blog.reedsy.com/short-story/d5ud9g/) (contemporary, humour)
 - [A Decade on a Train](https://blog.reedsy.com/short-story/mdt1fo/) (contemporary, romance)
 
-### Non Fiction Publications
+### Non-Fiction Publications
 - [The Guest House](https://journals.lib.sfu.ca/index.php/lyre/article/view/2547), The Lyre 2021 (lyrical essay, grief)
 - [“Weaving a Fantasy: Worldbuilding with Elise Volkman,”](https://www.wattpad.com/1273410530-let%27s-talk-craft-interviews-about-writing-weaving) Let’s Talk Craft, Wattpad interview with Jess Wesley
 - [Living in a digital world: Tech tools break storytelling mould](https://issuu.com/fbcw/docs/wordworks_vol_ii_2022_hl/s/17457304), WordWorks 2022 Volume II article

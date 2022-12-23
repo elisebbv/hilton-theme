@@ -15,10 +15,10 @@ image: '/images/the-nymph-keepers-trilogy.jpg'
   </div>
 </div>
 
-I write fantasy and science fiction and have a flair for gothic drama. The Nymph Keepers trilogy is my debut ebook series about a nymph whose people have been hunted to near-extinction for the healing properties in their bodies. She’s supposed to be Jay’s solution to everything. Instead, Jay’s convictions war with his loyalties and he saves her from certain death, becoming a mercenary on the run in the process.
+I write fantasy and science fiction and have a flair for gothic drama. The Nymph Keepers trilogy is my debut ebook series about Forest, a nymph whose people have been hunted to near-extinction for the healing properties in their blood. Jay needs nymph blood to help his sister, and Forest is supposed to be his solution to everything. Instead, Jay’s convictions war with his loyalties and he saves her from certain death, becoming a mercenary on the run in the process.
 
-Nym knows she can’t trust him — she has the scars to prove it — but she has no other choice. Jay is her only option, and his only option is to return home from banishment, risking imprisonment and even death, if he wants to keep them both safe.
+Forest knows she can’t trust him — she has the scars to prove it — but she has no other choice. Jay is her only option, and his only option is to return home from banishment, risking imprisonment and even death, in order to keep them both safe.
 
 Their meeting sets their lives on a course of intertwining events in which they’ll either have to trust each other or find their own way in a world that wants them both dead.
 
-[Pick a store](https://books2read.com/rootsofblood)! The series is available wherever ebooks are sold!
+[Pick a store](https://books2read.com/rootsofblood)! The series is available wherever ebooks are sold.

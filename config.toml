@@ -29,7 +29,7 @@ paginate = 6
     weight = 2
 
   [[menu.main]]
-    identifier = "Services"
+    identifier = "services"
     name = "Services"
     url = "/services/"
     weight = 3
@@ -67,9 +67,9 @@ paginate = 6
       weight = 2
 
       [[menu.footer]]
-      identifier = "blog"
-      name = "Blog"
-      url = "/posts/"
+      identifier = "services"
+      name = "Services"
+      url = "/services/"
       weight = 3
 
       [[menu.footer]]
@@ -83,6 +83,12 @@ paginate = 6
       name = "Contact"
       url = "/contact/"
       weight = 5
+
+      [[menu.footer]]
+      identifier = "blog"
+      name = "Blog"
+      url = "/posts/"
+      weight = 6
 
   #-------------------------------
   # Author Settings
@@ -248,7 +254,7 @@ paginate = 6
   #-------------------------------
   # Comment Section (Disqus)
   [params.disqus]
-    enable = true
+    enable = false
     disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 

@@ -1,4 +1,4 @@
 ---
 title: Blog
-description: Sign up for email updates about these posts and exclusive subscriber content!
+description: To sign up for updates about these posts and exclusive subscriber content, all you need is an email address.
 ---

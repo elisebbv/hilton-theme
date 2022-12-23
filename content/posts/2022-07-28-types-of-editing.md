@@ -5,7 +5,7 @@ slug: "types-of-editing"
 description: "Editing in three acts: developmental editing, copy editing, and proofreading."
 keywords: [developmental editing, copy editing, copyediting, proofreading, getting started]
 draft: false
-tags: [editing]
+tags: [editing, writing]
 image:  '/images/shadow-light-palette.jpg'
 ---
 

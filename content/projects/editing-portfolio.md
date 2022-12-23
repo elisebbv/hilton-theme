@@ -1,7 +1,7 @@
 ---
 title: My Editing Portfolio
 date: 2022-01-07 08:01:35 +0300
-subtitle: Developmental, Copy Editing, and Proofreading
+subtitle: Developmental Editing, Copy Editing, and Proofreading
 image: '/images/contact-hero-tea.png'
 ---
 
@@ -9,7 +9,7 @@ image: '/images/contact-hero-tea.png'
 
 I offer manuscript consultations for the exploring author and in-depth editing services for authors with specific goals for their manuscript. That means everything from developmental editing and copy editing down to the nitty gritty of a proofread.
 
-I enjoy a variety of speculative fiction genres, including fantasy, science-fiction, dystopian, gothic, and contemporary, and I like everything from middle grade up to and including adult. Through my work as an editor with [Writer’s Block Solutions](https://writersblocksolutions.ca/), [The Self Publishing Agency](https://theselfpublishingagency.com/), and indie authors, I’ve also had the pleasure of editing cookbooks, memoirs, self-help, and picture books.
+I enjoy a variety of speculative fiction genres, including fantasy, science-fiction, dystopian, gothic, and contemporary, and I like everything from middle grade up to and including adult. Through my work as an editor with [Writer’s Block Solutions](https://writersblocksolutions.ca/), [The Self Publishing Agency](https://theselfpublishingagency.com/), and all sorts of indie authors, I’ve also had the pleasure of editing cookbooks, memoirs, self-help, and picture books.
 
   <div class="section__navigation" style="padding-top: 0; padding-bottom: 50px;">
     <a href="/contact" class="button button--primary section-button"><b>Let’s Make Magic Together</b></a>
@@ -34,13 +34,13 @@ I enjoy a variety of speculative fiction genres, including fantasy, science-fict
 
 ### [The Self Publishing Agency](https://theselfpublishingagency.com/){:target="_blank"}
 - _Blooming_, Chiara Mason (developmental and copy edit, poetry/prose collection)
-- [_Ike_](https://lovereadingike.com/), Jason Dorland (proofread, memoir: from a dog’s perspective)
-- [_Maria’s Italian Cucina_](https://theselfpublishingagency.com/authors/2000/), Maria Larosa (copy edit, cookbook: Italian recipes)
-- [_The B Word: Infertility and Other Conversations_](https://theselfpublishingagency.com/authors/the-b-word/), Simona Altvilla Moss (developmental and copy edit, memoir: infertility)
-- [_Waiting for Rainbows_](https://theselfpublishingagency.com/authors/waiting-for-rainbows/), Ashley Berry (ghostwriting and developmental edit, memoir: infertility & adoption)
-- [_It Was Meant to Be_](https://theselfpublishingagency.com/authors/it-meant-to-be/), Sylvia Baize (developmental edit and copy edit, memoir: adoption)
-- [_Living in the Red_](https://theselfpublishingagency.com/authors/1628/), Nicole Wilson (proofread, memoir: finance)
-- [_The Box in the Closet_](https://www.jaynesbook.com/), Jayne Doxtater (proofread, memoir: gender)
+- [_Ike_](https://lovereadingike.com/), Jason Dorland (proofread, memoir)
+- [_Maria’s Italian Cucina_](https://theselfpublishingagency.com/authors/2000/), Maria Larosa (copy edit, cookbook)
+- [_The B Word: Infertility and Other Conversations_](https://theselfpublishingagency.com/authors/the-b-word/), Simona Altvilla Moss (developmental and copy edit, memoir)
+- [_Waiting for Rainbows_](https://theselfpublishingagency.com/authors/waiting-for-rainbows/), Ashley Berry (ghostwriting and developmental edit, memoir)
+- [_It Was Meant to Be_](https://theselfpublishingagency.com/authors/it-meant-to-be/), Sylvia Baize (developmental and copy edit, memoir)
+- [_Living in the Red_](https://theselfpublishingagency.com/authors/1628/), Nicole Wilson (proofread, memoir)
+- [_The Box in the Closet_](https://www.jaynesbook.com/), Jayne Doxtater (proofread, memoir)
 
 ### [Writer’s Block Solutions](https://writersblocksolutions.ca/)
 - Business reports & large document editing

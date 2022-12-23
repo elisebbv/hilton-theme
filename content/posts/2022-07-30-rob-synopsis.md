@@ -5,7 +5,7 @@ slug: "roots-of-blood-synopsis"
 description: "Spoilers for ROOTS OF BLOOD ahead!"
 keywords: [Roots of Blood, The Nymph Keepers trilogy, series, synopsis, spoilers]
 draft: false
-tags: [my books, The Nymph Keepers]
+tags: [writing, The Nymph Keepers, fantasy]
 image:  '/images/roots-of-blood.jpg'
 ---
 
