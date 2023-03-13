@@ -1,5 +1,5 @@
 ---
-title: My Editing Portfolio
+title: Editing Portfolio
 date: 2022-01-07 08:01:35 +0300
 subtitle: Developmental Editing, Copy Editing, and Proofreading
 image: '/images/contact-hero-tea.png'
@@ -48,12 +48,18 @@ I enjoy a variety of speculative fiction genres, including fantasy, science-fict
 - [The Block Party blog](https://writersblocksolutions.ca/the-block-party/) strategy, writing, and editing
 
 ### Indie Authors
+- Short story collection, Tyler Martens (copy edit and proofread, speculative fiction)
 - "The Nemo Hypothesis," Danielle Boyd (developmental and copy edit, short story)
-- _Through Fire & Ruin_ BOOK 2 (Coming 2023), Jennifer Becker and Alice Karpiel (developmental edit, new adult fantasy)
-- [_Through Fire & Ruin_](https://www.authorsjbandak.com/), Jennifer Becker and Alice Karpiel (developmental edit, new adult fantasy)
-- [_Perspective_](https://www.amazon.com/Perspective-Leah-Atazlu-ebook/dp/B09N7MV4FZ/ref=sr_1_6?crid=2DTUI8YEMIQLM&keywords=perspective+leah&qid=1670703111&s=books&sprefix=perspective+leah+%2Cstripbooks-intl-ship%2C126&sr=1-6), Leah O. Atazlu (copy edit and proofread, self-help)
+- [_Into Ashes & Doom_](https://www.goodreads.com/book/show/78712134-into-ashes-and-doom) (Coming 2023), Jennifer Becker and Alice Karpiel (developmental edit, new adult fantasy series)
+- [_Through Fire & Ruin_](https://app.thestorygraph.com/books/b3e67531-9d01-4711-b8a4-4aee7d1bbddb), Jennifer Becker and Alice Karpiel (developmental edit, new adult fantasy series)
+- [_Perspective_](https://www.goodreads.com/book/show/61143559-perspective?from_search=true&from_srp=true&qid=WWT7nvnX2C&rank=1), Leah O. Atazlu (copy edit and proofread, self-help)
 
-### Jawbone Magazine
+### [Soundman Productions Inc.](https://www.soundmanproductions.ca/)
+- Writing, and editing website copy
+- Branding onsulting
+
+
+### [Jawbone Magazine](https://www.instagram.com/jawbonemagazine/)
 - Structural & stylistic editing of articles, poetry, and short stories
 - Copy editing of articles, poetry, and short stories
 
@@ -64,7 +70,7 @@ I enjoy a variety of speculative fiction genres, including fantasy, science-fict
 ### [Namesake Inc.](https://www.namesake.ca/home)
 - _The Laeta King_, G.P. Dumitrascu (developmental and copy edit, epic fantasy)
 
-### [House of James Bookstore & Coffeeshop](https://houseofjames.com/) (2014-2018)
+### [House of James Bookstore & Coffeeshop](https://houseofjames.com/)
 - Newsletter writing & editing
 - Social media writing & editing
 
