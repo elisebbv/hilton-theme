@@ -2,7 +2,7 @@
 title: "Meet My New Favourite Author, Plus a Few More 📚"
 date: 2023-04-06T08:00:00-08:00
 slug: "meet-my-new-favourite-author-2023"
-description: "Reading round-up for January-March 2023"
+description: "Reading round-up: January-March 2023"
 tags: [book reviews, fantasy]
 image:  '/images/black-bookstack.jpeg'
 ---
