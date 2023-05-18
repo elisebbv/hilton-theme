@@ -44,9 +44,9 @@ I enjoy a variety of speculative fiction genres, including fantasy, science-fict
 
 ### [Writer’s Block Solutions](https://writersblocksolutions.ca/)
 - [_The Travelling Gum_](https://www.amazon.ca/Travelling-Gum-Holly-Talbot/dp/1777277027), Holly Talbot (copyedit and proofread, children's picture book)
+- [The Block Party blog](https://writersblocksolutions.ca/blog/author/elisevolkman/) strategy, writing, and editing
 - Business reports & large document editing
 - Website and social media writing, editing, and consulting
-- [The Block Party blog](https://writersblocksolutions.ca/the-block-party/) strategy, writing, and editing
 
 ### Indie Authors
 - Short story collection, Tyler Martens (copy edit and proofread, speculative fiction)
@@ -58,7 +58,6 @@ I enjoy a variety of speculative fiction genres, including fantasy, science-fict
 ### [Soundman Productions Inc.](https://www.soundmanproductions.ca/)
 - Writing, and editing website copy
 - Branding onsulting
-
 
 ### [Jawbone Magazine](https://www.instagram.com/jawbonemagazine/)
 - Structural & stylistic editing of articles, poetry, and short stories
