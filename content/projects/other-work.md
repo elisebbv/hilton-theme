@@ -25,3 +25,8 @@ Other Submissions
 - [The Guest House](https://journals.lib.sfu.ca/index.php/lyre/article/view/2547), The Lyre 2021 (lyrical essay, grief)
 - [“Weaving a Fantasy: Worldbuilding with Elise Volkman,”](https://www.wattpad.com/1273410530-let%27s-talk-craft-interviews-about-writing-weaving) Let’s Talk Craft, Wattpad interview with Jess Wesley
 - [Living in a digital world: Tech tools break storytelling mould](https://issuu.com/fbcw/docs/wordworks_vol_ii_2022_hl/s/17457304), WordWorks 2022 Volume II article
+- [5 Years in the Business of Words](https://writersblocksolutions.ca/blog/5-year-anniversary/), The Block Party (business anniversary post)
+- [How to Lure a Hermit to a Party: What the Heck is a Newsletter?](https://writersblocksolutions.ca/blog/what-the-heck-is-a-newsletter/), The Block Party (email marketing basics post)
+- [Stooges and Scrooges](https://writersblocksolutions.ca/blog/stooges-and-scrooges/), The Block Party (winter holidays post)
+- [Grammar Nerds Are Stylish Too](https://writersblocksolutions.ca/blog/grammar-nerds-are-stylish-too-the-top-3-writing-style-guides/), The Block Party (choosing a style guide post)
+- [Why Do It Alone?](https://writersblocksolutions.ca/blog/why-do-it-alone-meet-6-collaborators-we-love-working-with/), The Block Party (collaborator spotlight post)
