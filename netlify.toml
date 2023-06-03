@@ -7,6 +7,70 @@
 
 [[redirects]]
 
+  from = "/blog/unexpectedly-expected-editing-2022"
+  to = "/posts/unexpectedly-expected-editing-2022"
+  status = 301
+
   from = "/editing"
   to = "/projects/editing-portfolio"
   status = 301
+  
+  from = "/subscribe"
+  to = "/posts"
+  status = 301    
+
+  from = "/books"
+  to = "/projects"
+  status = 301   
+  
+  from = "/bio"
+  to = "/about"
+  status = 301   
+
+  from = "/tags/about-me"
+  to = "/about"
+  status = 301   
+
+  from = "/theteagrannies"
+  to = "/projects/the-tea-grannies-podcast"
+  status = 301   
+
+  from = "/newsletter"
+  to = "/posts"
+  status = 301   
+
+  from = "/post/ravings-on-ravens"
+  to = "/posts/good-writing"
+  status = 301   
+
+  from = "/blog/types-of-editing"
+  to = "/posts/types-of-editing"
+  status = 301   
+
+  from = "/editor"
+  to = "/projects/editing-portfolio"
+  status = 301   
+
+  from = "/author"
+  to = "/projects"
+  status = 301   
+
+  from = "/blog"
+  to = "/posts"
+  status = 301   
+
+  from = "/tags/my-books"
+  to = "/tags/the-nymph-keepers"
+  status = 301   
+
+  from = "/post"
+  to = "/posts"
+  status = 301   
+
+  from = "/blog/about-me"
+  to = "/about"
+  status = 301   
+
+  from = "/blog/good-writing"
+  to = "/posts/good-writing"
+  status = 301   
