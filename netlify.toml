@@ -11,65 +11,97 @@
   to = "/posts/unexpectedly-expected-editing-2022"
   status = 301
 
+[[redirects]]
+
   from = "/editing"
   to = "/projects/editing-portfolio"
   status = 301
+  
+[[redirects]]
   
   from = "/subscribe"
   to = "/posts"
   status = 301    
 
+[[redirects]]
+
   from = "/books"
   to = "/projects"
   status = 301   
-  
+
+[[redirects]]
+
   from = "/bio"
   to = "/about"
   status = 301   
+
+[[redirects]]
 
   from = "/tags/about-me"
   to = "/about"
   status = 301   
 
+[[redirects]]
+
   from = "/theteagrannies"
   to = "/projects/the-tea-grannies-podcast"
   status = 301   
+
+[[redirects]]
 
   from = "/newsletter"
   to = "/posts"
   status = 301   
 
+[[redirects]]
+
   from = "/post/ravings-on-ravens"
   to = "/posts/good-writing"
   status = 301   
+
+[[redirects]]
 
   from = "/blog/types-of-editing"
   to = "/posts/types-of-editing"
   status = 301   
 
+[[redirects]]
+
   from = "/editor"
   to = "/projects/editing-portfolio"
   status = 301   
+
+[[redirects]]
 
   from = "/author"
   to = "/projects"
   status = 301   
 
+[[redirects]]
+
   from = "/blog"
   to = "/posts"
   status = 301   
+
+[[redirects]]
 
   from = "/tags/my-books"
   to = "/tags/the-nymph-keepers"
   status = 301   
 
+[[redirects]]
+
   from = "/post"
   to = "/posts"
   status = 301   
 
+[[redirects]]
+
   from = "/blog/about-me"
   to = "/about"
   status = 301   
+
+[[redirects]]
 
   from = "/blog/good-writing"
   to = "/posts/good-writing"
