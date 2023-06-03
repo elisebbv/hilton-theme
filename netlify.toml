@@ -113,29 +113,43 @@
   to = "/posts/heart-of-the-forest-synopsis"
   status = 301
 
+[[redirects]]
+
   from = "/blog/queen-of-the-nymphs-launch-day"
   to = "/posts/queen-of-the-nymphs-launch-day"
   status = 301
+
+[[redirects]]
 
   from = "/blog/queen-of-the-nymphs-pre-order"
   to = "/posts/queen-of-the-nymphs-pre-order"
   status = 301
 
+[[redirects]]
+
   from = "/tags/editing/index"
   to = "/projects/editing-portfolio"
   status = 301
+
+[[redirects]]
 
   from = "/tags/fantasy/index"
   to = "/tags/fantasy"
   status = 301
 
+[[redirects]]
+
   from = "/tags/the-nymph-keepers/index"
   to = "/tags/the-nymph-keepers"
   status = 301
 
+[[redirects]]
+
   from = "/projects/index"
   to = "/projects"
   status = 301
+
+[[redirects]]
 
   from = "/index"
   to = "/"
