@@ -17,17 +17,23 @@ The problem with language, and English is just as bad for this as any other lang
 
 There are three main stages of editing that each article, manuscript, or other written work will ideally go through before it ends up under the reader’s eyes. These can be done by a single person in multiple rounds, but it can be useful to split the work into stages with different editors for each one, as familiarity with a manuscript often leads to a strange kind of universal blindness for the obvious. 
 
-### Act One
+### Act One: Developmental Editing
 
 A developmental edit always starts with the big-picture. The developmental editor focuses on everything from character development and plot structure to style, pacing, and continuity within the overall narrative. Whether it’s refining the outline of a medical paper or examining the character arc of a beloved protagonist, developmental editing is the first step to tightening up a draft and getting it ready for the public. 
 
-### Act Two
+*May also be known as structural/stylistic editing or substantive editing.*
+
+### Act Two: Copy Editing
 
 A copy edit is the next stage in the journey. The copy editor examines the manuscript for correctness, accuracy, and consistency. This can cover issues of word choice, jargon, wordiness, phrasing, and pacing — depending on the thoroughness of the editor. Some elements, such as phrasing and pacing, may be taken care of in the developmental stage, but there is often some overlap between the two.
 
-### Act Three
+*Copy editing is often mistaken for proofreading, and vice versa.*
 
-Proofreading is the final stage of editing. This happens after any design and layout decisions have been finalized and implemented. A proofreader will review a proof or galley copy of a manuscript for any lingering errors — spelling, punctuation, grammar, as well as layout, fonts and spacing. The proofreader is the gatekeeper between the final draft and the copy that goes on to publication for the public eye
+### Act Three: Proofreading
+
+Proofreading is the final stage of editing. This happens after any design and layout decisions have been finalized and implemented. While copy editing occurs while the manuscript is still in editable form as a regular text document (e.g., a Word doc or Google doc), proofreading is only done on a designed proof in PDF form. This is to ensure that the proofreader sees exactly what the manuscript will look like in its final (likely printed) form. A proofreader will review a digital proof (PDF) or physical galley copy of a manuscript for any lingering errors such as spelling, punctuation, grammar, but also for issues with the overall layout and design, such as fonts and spacing.
+
+*Proofreading and copy editing (or sometimes just "editing") are often used interchangeably, but are very different stages.*
 
 ### How Do You Know What You Need?
 
