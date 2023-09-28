@@ -2,7 +2,7 @@
 title: The Tea Grannies Podcast
 date: 2022-01-08 08:01:35 +0300
 subtitle: Writing & Editing Podcast (Co-Host & Co-Founder)
-image: '/images/the-tea-grannies-podcast.jpg'
+image: '/images/the-tea-grannies-project.png'
 ---
 
 > Miraya Engelage and Elise Volkman bring you writing, editing, and reading tips from the tea-tables of their living rooms. Whether you're an experienced author or new writer, pour yourself a cup of tea and join them for discussions on first drafts, querying, and everything in between.
