@@ -141,10 +141,14 @@ paginate = 6
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "Let’s make magic together."
-    hero__description = "My editorial feedback is strengths first, revisions to follow. You need to know what’s working in order to fix what’s not. You’re a reader or a writer with a need for a story? I’m an editor and author of speculative fiction. Together, we can make magic happen."
-    hero__image = "/images/hero-image.jpg"
+    hero__title = "Nym is the last living nymph in the province of Galia, and Jay is out for her blood."
+    hero__description = "The Nymph Keepers trilogy is available wherever ebooks are sold!"
+    hero__image = "/images/hero-nymph-keepers.jpg"
 
+  # Original Hero Settings (focus on editing)
+    # hero__title = "Let’s make magic together."
+    # hero__description = "My editorial feedback is strengths first, revisions to follow. You need to know what’s working in order to fix what’s not. You’re a reader or a writer with a need for a story? I’m an editor and author of speculative fiction. Together, we can make magic happen."
+    # hero__image = "/images/hero-image.jpg"
 
   #-------------------------------
   # Newsletter Settings
