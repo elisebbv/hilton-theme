@@ -21,4 +21,4 @@ Call it compounded insanity, osmosis, or a psychic connection — whatever you w
 
 If you’re a writer, reader, editor, or all-around bookworm looking for tips, commisteration, and a lot of good laughs, have we got a show for you. Pour yourself a cup of tea and let's get started! ([Available wherever you listen to podcasts.](https://shows.acast.com/the-tea-grannies))
 
-<iframe src="https://embed.acast.com/6046862044bc23628cfd7846?feed=true" frameBorder="0" width="100%" height="500px"></iframe>
+<iframe src="https://embed.acast.com/6046862044bc23628cfd7846?cover=false&feed=true" frameBorder="0" height="280px"></iframe>
