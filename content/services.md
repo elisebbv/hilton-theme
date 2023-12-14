@@ -3,6 +3,8 @@ title: Services
 image: ''
 ---
 
+## <mark style="background-color: #ad72df ; color: #ffffff;">I'm on hiatus</mark> from editing projects while I head back to school to complete my degree. Thanks for understanding 💜 
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/through-fire-and-ruin.jpg" loading="lazy">
@@ -13,7 +15,7 @@ image: ''
 
 > I offer manuscript consultations for the exploring author and in-depth editing services for authors with specific goals for their manuscript.
 
-No sure what you need? No worries! Whether you've got it all sorted or you're still figuring things out, you can request a free sample edit of your manuscript to see if we’ll be a good fit. All I ask is that you have a completed draft of your story ready when you make your request.
+No sure what you need? No worries! You can request a free sample edit of your manuscript to see if we’ll be a good fit. All I ask is that you have a completed draft of your story ready when you make your request.
 
   <div class="section__navigation" style="padding-top: 0; padding-bottom: 100px;">
     <a href="/contact" class="button button--primary section-button"><b>Let’s Make Magic Together</b></a>

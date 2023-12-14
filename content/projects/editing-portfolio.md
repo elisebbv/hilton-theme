@@ -7,6 +7,8 @@ image: '/images/contact-hero-tea.png'
 
 <base target="_blank">
 
+## <mark style="background-color: #ad72df ; color: #ffffff;">I'm on hiatus</mark> from editing projects while I head back to school to complete my degree. Thanks for understanding 💜 
+
 I offer manuscript consultations for the exploring author and in-depth editing services for authors with specific goals for their manuscript. That means everything from developmental editing and copy editing down to the nitty gritty of a proofread.
 
 I enjoy a variety of speculative fiction genres, including fantasy, science-fiction, dystopian, gothic, and contemporary, and I like everything from middle grade up to and including adult. Through my work as an editor with [Writer’s Block Solutions](https://writersblocksolutions.ca/), [The Self Publishing Agency](https://theselfpublishingagency.com/), and all sorts of indie authors, I’ve also had the pleasure of editing cookbooks, memoirs, self-help, and picture books.
