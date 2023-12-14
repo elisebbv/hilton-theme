@@ -1,6 +1,6 @@
 ---
 title: "The Editor Is on Hiatus! 💜"
-date: 2023-12-13T08:00:00-08:00
+date: 2023-12-13T07:00:00-08:00
 slug: "the-editor-is-on-hiatus"
 description: "I'm back in school to finish my degree. This means I won't be taking on new clients for the forseeable future."
 tags: [editing]
