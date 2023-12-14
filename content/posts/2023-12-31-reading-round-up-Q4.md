@@ -9,11 +9,11 @@ image:  '/images/black-bookstack.jpeg'
 
 Book spines! I swear I meant BOOK spines! I get that I'm a fantasy author with a penchant for the darker tales (though you cannot accuse me of publishing any tragedies, those will never see beyond the deep, dark reaches of a digital filing cabinet). But come ON.
 
-It's September. The last time I updated anyone on my reading progress I had read 26 books in the first quarter of 2023. My dismal math skills aside, this was a shock to me. It is now the third quarter of 2023 and we are sitting pretty at ... 🥁 🥁 🥁 ... 60! **THIS IS A PLACEHOLDER**
+It's December. The last time I updated anyone on my reading progress I had read 26 books in the first quarter of 2023. My dismal math skills aside, this was a shock to me. It is now the final quarter of 2023 and we are sitting pretty at ... 🥁 🥁 🥁 ... 87! This is quite the adjustment from my original January plan to read (***checks notes***) exactly ONE book per month. One. 1. Uno. Un. Not two. Not three. Not zero. One.
 
-This is quite the adjustment from my original January plan to read (***checks notes***) exactly ONE book per month. One. 1. Uno. Un. Not two. Not three. Not zero. One.
+I believe this perfectly exemplifies my apalling habit of underestimating my capabilities for fear of overtaxing myself. Step two of this pattern would be to grossly overcompensate and try to read like 100 books by the end of the year. That would mean 13 books in approximately 2 weeks. I give you permission to send me DMs and emails and messages about how that's not a fair expectation to put on myself, because I'm gonna need it. Help me break the cycle. I wasn't supposed to have any reading goals or expectations this year. Whether I finished forty more books before December 31st, 2023, or I didn't touch a single spine (digital, physical, or otherwise), I was supposed to be satisfied. 
 
-I believe this perfectly exemplifies my apalling habit of underestimating my capabilities for fear of overtaxing myself. Step two of this pattern would be to grossly overcompensate and try to read like 100 books by the end of the year, but I am breaking the cycle. I have set no goal for the rest of the year. Whether I finish forty more books before December 31st, 2023, or I don't touch a single spine (digital, physical, or otherwise), I am satisfied. I mean, can you blame me? Just look at some of these highlights.
+And by rights, I _should_ be. I mean, _look_ at some of these highlights!
 
 <div class="gallery-box">
   <div class="gallery">
