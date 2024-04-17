@@ -8,7 +8,7 @@ paginate = 6
 
 
 [params]
-  logo = "" # You can add own logo. For example "/images/logo.png".
+  logo = "/images/logo-EV-2024.png" # You can add own logo. For example "/images/logo.png".
   description = "I'm Elise, a freelance editor, fantasy author, and podcast host."
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -95,7 +95,7 @@ paginate = 6
   [params.author]
     author__name = "Elise Volkman"
     author__bio = "I'm an editor and author who loves books and helping people. I'll do whatever I can to make sure those worlds collide as often as possible. I acknowledge the land on which I live and work, the traditional and unceded territory of the Sto:lo, a Halkomelem-speaking people of the Coast Salish."
-    author__avatar = "/images/author-avatar.jpg"
+    author__avatar = "/images/logo-EV-2024.png"
 
   # Social Links
     [[params.social]]
