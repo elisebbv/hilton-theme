@@ -3,7 +3,7 @@ title: "Fine Arts Hasn't Killed Me Yet 👀"
 date: 2024-04-19T08:00:00-08:00
 slug: "fine-arts-hasnt-killed-me-yet"
 description: "I've survived 2 more semesters of fine arts classes; here's to at least 3 more."
-tags: [book reviews, editing, writing]
+tags: [editing, writing]
 image:  '/images/2024-logo-update.png'
 ---
 
@@ -27,7 +27,7 @@ Speaking of wonderful people who are wonderful to me, peep the new logo:
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/logo-EV-2024.png" loading="lazy">
+    <img src="/images/logo-EV-2024-nobg.png" loading="lazy">
   </div>
 </div>
 
