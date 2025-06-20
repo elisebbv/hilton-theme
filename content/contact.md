@@ -12,7 +12,7 @@ image: ''
   </div>
 </div>
 
-## <mark style="background-color: #ad72df ; color: #ffffff;">I'm on hiatus</mark> from editing projects while I head back to school to complete my degree. Thanks for understanding 💜 
+## <mark style="background-color: #87a6b1; color: #ffffff;">I'm on hiatus</mark> from editing projects while I head back to school to complete my degree. Thanks for understanding!
 
 To request a free sample edit, please include the following:
 - Title
