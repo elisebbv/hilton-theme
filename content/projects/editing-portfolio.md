@@ -7,7 +7,7 @@ image: '/images/contact-hero-tea.png'
 
 <base target="_blank">
 
-## <mark style="background-color: #ad72df ; color: #ffffff;">I'm on hiatus</mark> from editing projects while I head back to school to complete my degree. Thanks for understanding 💜 
+## <mark style="background-color: #87a6b1; color: #ffffff;">I'm on hiatus</mark> from editing projects while I head back to school to complete my degree. Thanks for understanding!
 
 I offer manuscript consultations for the exploring author and in-depth editing services for authors with specific goals for their manuscript. That means everything from developmental editing and copy editing down to the nitty gritty of a proofread.
 
