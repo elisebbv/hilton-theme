@@ -19,6 +19,6 @@ Miraya and I met in 2018 when we both apparated into the Speculative Fiction coh
 
 Call it compounded insanity, osmosis, or a psychic connection — whatever you want. Sometime in 2021 we both had a wild, implausible, silly idea: to start a podcast! Despite the grade-school feedback that continues to haunt me to this day (“Elise is a great asset to the class, but I wish she would speak up more!”), and Miraya’s and my mutual social anxiety, we did it. In May 2021, we launched The Tea Grannies Podcast, and it’s been a _blast_.
 
-If you’re a writer, reader, editor, or all-around bookworm looking for tips, commisteration, and a lot of good laughs, have we got a show for you. Pour yourself a cup of tea and let's get started! ([Available wherever you listen to podcasts.](https://shows.acast.com/the-tea-grannies))
+If you’re a writer, reader, editor, or all-around bookworm looking for tips, commisteration, and a lot of good laughs, have we got a show for you. Pour yourself a cup of tea and let's get started! ([Available wherever you listen to podcasts.](https://patreon.com/TheTeaGranniesPodcast))
 
-<iframe src="https://embed.acast.com/6046862044bc23628cfd7846?cover=false&feed=true" frameBorder="0" height="280px"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/show/4VL0OI26KiHRTNpMAgItP3?utm_source=generator" frameBorder="0" allowfullscreen="" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
