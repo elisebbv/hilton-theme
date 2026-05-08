@@ -4,7 +4,7 @@
     <title>Design on Elise Volkman</title>
     <link>http://localhost:1313/tags/design/</link>
     <description>Recent content in Design on Elise Volkman</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Oct 2025 08:00:00 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/design/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,14 @@
       <link>http://localhost:1313/posts/the-editor-has-graduated/</link>
       <pubDate>Fri, 03 Oct 2025 08:00:00 -0800</pubDate>
       <guid>http://localhost:1313/posts/the-editor-has-graduated/</guid>
-      <description>&lt;p&gt;I have wanted a Bachelor&amp;rsquo;s degree since the day my mother told me she wished she&amp;rsquo;d finished her post-secondary education. Nine years and three post-secondary schools later, I have what I wanted.&lt;/p&gt;&#xA;&lt;p&gt;I finished the last two classes of my Bachelor&amp;rsquo;s degree in August 2025. I won&amp;rsquo;t walk the stage, but I will mark the moment, in my own way, with my own people. I will stand on the other side of this self-imposed mission, arms open wide in relief and jubilation, and I will take the time to tell myself, &amp;ldquo;That was a job well done.&amp;rdquo;&lt;/p&gt;</description>
+      <description>I have wanted a Bachelor&amp;rsquo;s degree since the day my mother told me she wished she&amp;rsquo;d finished her post-secondary education. Nine years and three post-secondary schools later, I have what I wanted.&#xA;(To see what I’ve been up to in my classes, check out my design portfolio.)&#xA;I finished the last two classes of my Bachelor&amp;rsquo;s degree in August 2025. I won&amp;rsquo;t walk the stage, but I will mark the moment, in my own way, with my own people.</description>
+    </item>
+    <item>
+      <title>The Handwritten Letters: May 2026</title>
+      <link>http://localhost:1313/posts/the-handwritten-letters-may-2026/</link>
+      <pubDate>Thu, 08 May 2025 08:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/the-handwritten-letters-may-2026/</guid>
+      <description>dear you,&#xA;I hope I find you in a comfy chair with a warm cup in your hands.&#xA;My tea is steeping on the counter, and I popped a piece of bread in the toaster oven because I should probably eat something (but remembering to feed myself can be hard for me).&#xA;How are you? What has life brought you today? It&amp;rsquo;s been a while since I last wrote. I&amp;rsquo;ve had a lot&amp;hellip; Well, I&amp;rsquo;ve had just as much going on as I usually do, but I&amp;rsquo;ll get into that another day.</description>
     </item>
   </channel>
 </rss>

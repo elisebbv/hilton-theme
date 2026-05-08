@@ -3,7 +3,7 @@ title: "Why Soft Magic Systems Are So Hard to Write 🪄"
 date: 2023-05-17T19:00:00-08:00
 slug: "hard-and-soft-magic-systems"
 description: "It took me two attempts to finish reading For the Throne by Hannah Whitten and I think it's because of the way she wrote the soft magic system of her world."
-tags: [writing, book reviews, fantasy]
+tags: [writing, reviews, fantasy]
 image:  '/images/for-the-throne-hard-soft-magic.jpg'
 ---
 

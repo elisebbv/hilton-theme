@@ -3,7 +3,7 @@ title: "A Few More Good Reads: Happy New Year! 🥂"
 date: 2022-12-30T14:30:44-08:00
 slug: "happy-new-year-2022"
 description: "What have I been reading lately?"
-tags: [book reviews, fantasy]
+tags: [reviews, fantasy]
 image:  '/images/socks-and-tea.jpg'
 ---
 

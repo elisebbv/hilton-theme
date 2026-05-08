@@ -3,12 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-01T08:00:00-08:00</lastmod>
+    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/book-reviews/</loc>
-    <lastmod>2024-07-01T08:00:00-08:00</lastmod>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/editing/</loc>
+    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-editor-has-graduated/</loc>
+    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/writing/</loc>
+    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-handwritten-letters-may-2026/</loc>
+    <lastmod>2025-05-08T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/book-reviews/</loc>
     <lastmod>2024-07-01T08:00:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/murder-mystery/</loc>
@@ -20,19 +38,7 @@
     <loc>http://localhost:1313/posts/plots-to-rival-the-heatwave/</loc>
     <lastmod>2024-07-01T08:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/plots-to-rival-the-heatwave/</loc>
-    <lastmod>2024-07-01T08:00:00-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-01T08:00:00-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/editing/</loc>
-    <lastmod>2024-04-19T08:00:00-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/fine-arts-hasnt-killed-me-yet/</loc>
-    <lastmod>2024-04-19T08:00:00-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
     <lastmod>2024-04-19T08:00:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fantasy/</loc>

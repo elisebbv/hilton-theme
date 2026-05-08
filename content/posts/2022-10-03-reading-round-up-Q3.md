@@ -3,7 +3,7 @@ title: "Reading Round-Up — September 2022"
 date: 2022-10-03T5:00:00-07:00
 slug: "reading-round-up-september-2022"
 description: "My top book recommendations since my last update."
-tags: [book reviews, fantasy]
+tags: [reviews, fantasy]
 image:  '/images/winternight-trilogy.jpg'
 ---
 

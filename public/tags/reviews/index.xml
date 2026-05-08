@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews on Elise Volkman</title>
+    <link>http://localhost:1313/tags/reviews/</link>
+    <description>Recent content in Reviews on Elise Volkman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Aug 2022 12:33:21 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good Writing: My Top 3 Reads of 2022 (So Far)</title>
+      <link>http://localhost:1313/posts/good-writing/</link>
+      <pubDate>Mon, 01 Aug 2022 12:33:21 -0700</pubDate>
+      <guid>http://localhost:1313/posts/good-writing/</guid>
+      <description>An Enchantment of Ravens&#xA;If We Were Villains&#xA;The Love Hypothesis&#xA;To Read or Not To Read I can count on one hand the number of books I&amp;rsquo;ve read this year that have made me want to write. And I&amp;rsquo;ve read 30 books so far. Maybe those aren&amp;rsquo;t great odds. Maybe I should be more selective about the books I pick up; maybe I should DNF (did-not-finish) more often. But once I start reading something, I have an excruciatingly hard time stopping until I reach &amp;ldquo;The End.</description>
+    </item>
+  </channel>
+</rss>

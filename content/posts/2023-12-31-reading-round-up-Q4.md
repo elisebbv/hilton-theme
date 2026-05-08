@@ -3,7 +3,7 @@ title: "What Spines Ya Crackin'? 📚 (BOOK spines, that is)"
 date: 2023-12-31T08:00:00-08:00
 slug: "what-spines-ya-crackin"
 description: "Reading round-up: 90 books in 2023?!"
-tags: [book reviews, fantasy, science fiction]
+tags: [reviews, fantasy, sci-fi]
 image:  '/images/2023-reading-roundup.png'
 ---
 
