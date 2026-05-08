@@ -1,7 +1,7 @@
 ---
 title: "The Handwritten Letters 05.26"
 date: 2026-05-08T08:00:00-08:00
-slug: "the-handwritten-letters-may-2026"
+slug: "the-handwritten-letters-05-26"
 description: "When's the last time you got a handwritten letter?"
 tags: [letters, writing]
 image:  '/images/blog/the_handwritten_letters_title_card.jpg'
