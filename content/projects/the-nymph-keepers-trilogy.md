@@ -2,7 +2,7 @@
 title: The Nymph Keepers Trilogy
 date: 2022-01-05 08:01:35 +0300
 subtitle: Fantasy Series (Author)
-image: '/images/the-nymph-keepers-trilogy.jpg'
+image: '/images/blog/tnk-paperbacks.jpg'
 ---
 
 > Nym is the last living nymph in the province of Galia, and Jay is out for her blood.
@@ -21,4 +21,4 @@ Forest knows she can’t trust him — she has the scars to prove it — but she
 
 Their meeting sets their lives on a course of intertwining events in which they’ll either have to trust each other or find their own way in a world that wants them both dead.
 
-[Pick a store](https://books2read.com/rootsofblood)! The series is available wherever ebooks are sold.
+[Pick a store](https://books2read.com/rootsofblood)! The series is available wherever ebooks are sold, and paperbacks are available on Amazon.
