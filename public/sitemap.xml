@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
+    <lastmod>2026-06-23T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-23T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/letters/</loc>
+    <lastmod>2026-05-08T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-05-08T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/the-handwritten-letters-05-26/</loc>
+    <lastmod>2026-05-08T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/writing/</loc>
+    <lastmod>2026-05-08T08:00:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/design/</loc>
     <lastmod>2025-10-03T08:00:00-08:00</lastmod>
@@ -11,31 +26,19 @@
     <loc>http://localhost:1313/tags/editing/</loc>
     <lastmod>2025-10-03T08:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/the-editor-has-graduated/</loc>
     <lastmod>2025-10-03T08:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
-    <lastmod>2025-10-03T08:00:00-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/the-handwritten-letters-may-2026/</loc>
-    <lastmod>2025-05-08T08:00:00-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/book-reviews/</loc>
+    <loc>http://localhost:1313/tags/mystery/</loc>
     <lastmod>2024-07-01T08:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/murder-mystery/</loc>
-    <lastmod>2024-07-01T08:00:00-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/non-fiction/</loc>
+    <loc>http://localhost:1313/tags/non-fic/</loc>
     <lastmod>2024-07-01T08:00:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/plots-to-rival-the-heatwave/</loc>
+    <lastmod>2024-07-01T08:00:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reviews/</loc>
     <lastmod>2024-07-01T08:00:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/fine-arts-hasnt-killed-me-yet/</loc>
@@ -44,7 +47,7 @@
     <loc>http://localhost:1313/tags/fantasy/</loc>
     <lastmod>2023-12-31T08:00:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/science-fiction/</loc>
+    <loc>http://localhost:1313/tags/sci-fi/</loc>
     <lastmod>2023-12-31T08:00:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/what-spines-ya-crackin/</loc>
