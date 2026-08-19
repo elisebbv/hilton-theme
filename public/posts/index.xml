@@ -6,7 +6,6 @@
     <description>Recent content in Blog on Elise Volkman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-<<<<<<< HEAD
     <lastBuildDate>Tue, 18 Aug 2026 08:00:00 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -17,11 +16,6 @@
       <description>Note: This is a typed version of the handwritten letter I sent to my email subscribers. If you&amp;rsquo;d like to see the handwritten version (and the doodles I send along with it), subscribe to Letters from Elise&#xA;dear you,&#xA;I write this letter from my office chair at my desk. I&amp;rsquo;m not actually using the desk, obviously. That would be far too proper. I started pencilling stories onto a notebook propped against my knees when I was 12 years old.</description>
     </item>
     <item>
-=======
-    <lastBuildDate>Mon, 20 Jul 2026 08:00:00 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
->>>>>>> origin/main
       <title>The Handwritten Letters 07.26</title>
       <link>http://localhost:1313/posts/the-handwritten-letters-07-26/</link>
       <pubDate>Mon, 20 Jul 2026 08:00:00 -0800</pubDate>

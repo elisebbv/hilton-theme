@@ -38,8 +38,6 @@ See you in the next one! My hope is that PROJECT BUG BABIES will be 90-100% revi
 yours,  
 elise
 
-P.S., If you'd like to see the handwritten version (and the doodles I send along with it), subscribe to [Letters from Elise](https://b0545c87.sibforms.com/serve/MUIEAJoaIHDarefwiMHNFZ8SgpmNiMtZK00gGlUwUNgvJirO9qxDi7Ubzj9B1xJaQxTqZJA4MoOM6JRVJzAz_QIi_vZP8FPgdv2VMZ7oAvzc9-ZVAV61l8d919iURAxxnbxBDKWfFXCe-giargn6OqTgtVRdkztpTAqPDw5RDNEcv53PzryeitgaiAyARKRm3ZYwJD2jC6xOA09E) :)
+P.S., If you'd like to see the handwritten version (and the doodles and tea recommendations I send along with it), subscribe to [Letters from Elise](https://b0545c87.sibforms.com/serve/MUIEAJoaIHDarefwiMHNFZ8SgpmNiMtZK00gGlUwUNgvJirO9qxDi7Ubzj9B1xJaQxTqZJA4MoOM6JRVJzAz_QIi_vZP8FPgdv2VMZ7oAvzc9-ZVAV61l8d919iURAxxnbxBDKWfFXCe-giargn6OqTgtVRdkztpTAqPDw5RDNEcv53PzryeitgaiAyARKRm3ZYwJD2jC6xOA09E) :)
 
-## Tea of the Month: Moroccan Mint Oolong
-Green tea has been a bit rough on my stomach for a while, but oolong is a nice gentle alternative! And this one always tastes a little bit like coming home... [Try it for yourself at davidstea.com.](https://davidstea.com/products/moroccan-mint-oolong-tea)
 
