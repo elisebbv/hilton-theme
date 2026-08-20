@@ -154,7 +154,7 @@ paginate = 6
   # Newsletter Settings
   [params.mailchimp]
     enable = true
-    mailchimp__identifier = "https://b0545c87.sibforms.com/serve/MUIEAPlGe9WLJi2sDdJ1lonWY-1EU_OaNwmx1vgW1iqif4GIukoPQDJNH7jjx2prV6VLXZ7zev8NqIo0iRTvR9M8bfRG_sE7Q9WPybIqToD6ZFU6_dGqvPFCyBWp39khaSzXXZH3fRqhsZvDQMC465NXurc6tan9XA_Sr9WBWges-bqhEmwoSXN_GkNTqY1yP75QRkqYS_37k45O" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__identifier = "https://b0545c87.sibforms.com/serve/MUIFAKpqhnCoS07o5iMvXOuBUxD7r-MFn2_HqFNQ9AnC4Iy6rM_n9lxu5TzNs4bFuYB0c-kAcZ2rm0Sog1i1BOTYjma7Ib-kD3qxYZmfeZyOQWFUF4D_aOgBUjXRvFllklbi3J5IaE0dZel_7d-fzAju2kEXOsHG6bAm1Cb2rgD1ANc4mMlz2abNruk6UObjeokKRXNxswbCqLiC" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp__input__text = "Your email address..."
     mailchimp__button__text = "Get Updates" # Add your button text
 
