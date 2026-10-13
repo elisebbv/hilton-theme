@@ -33,13 +33,14 @@ I enjoy a variety of speculative fiction genres, including fantasy, science-fict
 ## Client List
 
 ### [The Self Publishing Agency](https://theselfpublishingagency.com/){:target="_blank"}
+- [_Perhaps Joy is the Reward_](https://www.randykwriter.com/perhaps-joy-is-the-reward), Randy Klassen 
 - [_Blooming_](https://www.amazon.ca/Blooming-Poetry-Seasons-Chiara-Mason/dp/1738816125), Chiara Mason (developmental and copy edit, poetry/prose collection)
-- [_Ike_](https://lovereadingike.com/), Jason Dorland (proofread, memoir)
-- [_Maria’s Italian Cucina_](https://theselfpublishingagency.com/authors/2000/), Maria Larosa (copy edit, cookbook)
-- [_The B Word: Infertility and Other Conversations_](https://theselfpublishingagency.com/authors/the-b-word/), Simona Altvilla Moss (developmental and copy edit, memoir)
-- [_Waiting for Rainbows_](https://theselfpublishingagency.com/authors/waiting-for-rainbows/), Ashley Berry (ghostwriting and developmental edit, memoir)
-- [_It Was Meant to Be_](https://theselfpublishingagency.com/authors/it-meant-to-be/), Sylvia Baize (developmental and copy edit, memoir)
-- [_Living in the Red_](https://theselfpublishingagency.com/authors/1628/), Nicole Wilson (proofread, memoir)
+- [_Ike_](https://www.amazon.ca/IKE-dog-who-saved-human/dp/1738708411), Jason Dorland (proofread, memoir)
+- [_Maria’s Italian Cucina_](https://www.mariasitaliancucina.com/), Maria Larosa (copy edit, cookbook)
+- [_The B Word: Infertility and Other Conversations_](https://www.amazon.ca/Word-Infertility-Other-Conversations-ebook/dp/B0965VH5Q2), Simona Altvilla Moss (developmental and copy edit, memoir)
+- [_Waiting for Rainbows_](https://www.amazon.ca/Waiting-Rainbows-Ashley-Berry/dp/1954233116), Ashley Berry (ghostwriting and developmental edit, memoir)
+- [_It Was Meant to Be_](https://www.amazon.ca/Was-Meant-Be-Sylvia-Baize/dp/1954233000), Sylvia Baize (developmental and copy edit, memoir)
+- [_Living in the Red_](https://www.amazon.ca/Living-Red-Nicole-Wilson/dp/1777140307), Nicole Wilson (proofread, memoir)
 - [_The Box in the Closet_](https://www.jaynesbook.com/), Jayne Doxtater (proofread, memoir)
 
 ### [Writer’s Block Solutions](https://writersblocksolutions.ca/)
@@ -49,9 +50,10 @@ I enjoy a variety of speculative fiction genres, including fantasy, science-fict
 - Website and social media writing, editing, and consulting
 
 ### Indie Authors
-- Short story collection, Tyler Martens (copy edit and proofread, speculative fiction)
+- [_Beyond Ember & Hope_](https://app.thestorygraph.com/books/26622048-fed1-4c19-b98b-f1db179b9438), Jennifer Becker and Alice Karpiel (developmental edit, new adult fantasy series)
+- [_The House_](https://www.amazon.ca/House-Ty-Martens/dp/B0C9FVV78H), Tyler Martens (copy edit and proofread, speculative fiction, short story collection)
 - "The Nemo Hypothesis," Danielle Boyd (developmental and copy edit, short story)
-- [_Into Ashes & Doom_](https://www.goodreads.com/book/show/78712134-into-ashes-and-doom), Jennifer Becker and Alice Karpiel (developmental edit, new adult fantasy series)
+- [_Into Ashes & Doom_](https://app.thestorygraph.com/books/0ac2b487-9ca3-4db9-ac5f-0fae143e58cd), Jennifer Becker and Alice Karpiel (developmental edit, new adult fantasy series)
 - [_Through Fire & Ruin_](https://app.thestorygraph.com/books/b3e67531-9d01-4711-b8a4-4aee7d1bbddb), Jennifer Becker and Alice Karpiel (developmental edit, new adult fantasy series)
 - [_Perspective_](https://www.goodreads.com/book/show/61143559-perspective?from_search=true&from_srp=true&qid=WWT7nvnX2C&rank=1), Leah O. Atazlu (copy edit and proofread, self-help)
 
