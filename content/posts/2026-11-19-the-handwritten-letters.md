@@ -4,7 +4,7 @@ date: 2026-11-18T01:00:00-08:00
 slug: "the-handwritten-letters-11-26"
 description: "I got an agent! (The Handwritten Letters 11.26)"
 tags: [letters, writing]
-image:  '/images/blog/the_handwritten_letters-11-26.jpg'
+image:  '/images/blog/the_handwrittenletters-11-26.jpg'
 ---
 
 _Note: This is a typed version of the handwritten letter I sent to my email subscribers. If you'd like to see the handwritten version (and the doodles I send along with it), subscribe to [Letters from Elise](https://b0545c87.sibforms.com/serve/MUIEAJoaIHDarefwiMHNFZ8SgpmNiMtZK00gGlUwUNgvJirO9qxDi7Ubzj9B1xJaQxTqZJA4MoOM6JRVJzAz_QIi_vZP8FPgdv2VMZ7oAvzc9-ZVAV61l8d919iURAxxnbxBDKWfFXCe-giargn6OqTgtVRdkztpTAqPDw5RDNEcv53PzryeitgaiAyARKRm3ZYwJD2jC6xOA09E)_
