@@ -7,9 +7,9 @@ image: ''
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/hero-image.jpg" loading="lazy">
+    <img src="/images/hero-image-2026.jpg" loading="lazy">
     <img src="/images/tea-candle.jpg" loading="lazy">
-    <img src="/images/footer-3.jpg" loading="lazy">
+    <img src="/images/miraya-engelage.jpg" loading="lazy">
   </div>
 </div>
 

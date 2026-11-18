@@ -13,6 +13,15 @@ image: ''
   </div>
 </div>
 
+
+To request a free sample edit, [contact me through my contact form](https://elisevolkman.com/contact/) and please include the following in your email:
+
+- Title
+- Genre
+- Word count
+- A brief summary of your story
+- [What kind of editing you're looking for](/services) (and if you don't know, that's okay!)
+
 No sure what you need? No worries! Keep scrolling to see an overview of the kinds of editing I offer. You can request a free sample edit of your manuscript anytime, to see if we’ll be a good fit. All I ask is that you have a completed draft of your story ready when you make your request.
 
   <div class="section__navigation" style="padding-top: 0; padding-bottom: 100px;">

@@ -141,9 +141,9 @@ paginate = 6
   # Hero Settings
   [params.hero]
     enable = true
-    hero__title = "Nym is the last living nymph in the province of Galia, and Jay is out for her blood."
-    hero__description = "The Nymph Keepers trilogy is available wherever ebooks are sold! Paperbacks now available on Amazon."
-    hero__image = "/images/tnk-paperbacks-hero.jpg"
+    hero__title = "Fantasy & Horror Author now represented by Literary Agent Olivia Emerick!"
+    hero__description = "It only took 8 years, 3 books, and 150+ rejections. Sign up for the handwritten letters 🐌 newsletter to follow along on my journey to publication!"
+    hero__image = "/images/hero-image-2026.jpg"
 
   # Original Hero Settings (focus on editing)
     # hero__title = "Let’s make magic together."

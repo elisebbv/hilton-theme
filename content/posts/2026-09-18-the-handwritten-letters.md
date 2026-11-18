@@ -1,8 +1,8 @@
 ---
-title: "The Handwritten Letters 09.26"
+title: "101,001 words—only 12% more words than planned."
 date: 2026-09-18T01:00:00-08:00
 slug: "the-handwritten-letters-09-26"
-description: "101,001 words—only 12% more words than planned."
+description: "A project Update (The Handwritten Letters 09.26)"
 tags: [letters, writing]
 image:  '/images/blog/the_handwrittenletters-09-26.jpg'
 ---

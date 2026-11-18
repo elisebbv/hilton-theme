@@ -10,7 +10,7 @@ image: '/images/the-tea-grannies-project.png'
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/the-tea-grannies-podcast.jpg" loading="lazy">
-    <img src="/images/footer-3.jpg" loading="lazy">
+    <img src="/images/miraya-engelage.jpg" loading="lazy">
     <img src="/images/season-three-wrapup.png" loading="lazy">
   </div>
 </div>

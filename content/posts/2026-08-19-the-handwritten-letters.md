@@ -1,8 +1,8 @@
 ---
-title: "The Handwritten Letters 08.26"
+title: "So, I'm writing another book... oops?"
 date: 2026-08-18T08:00:00-08:00
 slug: "the-handwritten-letters-08-26"
-description: "so, I'm writing another book... oops?"
+description: "Project [REDACTED]: Complete! (The Handwritten Letters 08.26)"
 tags: [letters, writing]
 image:  '/images/blog/the_handwrittenletters-08-26.jpg'
 ---

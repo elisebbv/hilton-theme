@@ -1,8 +1,8 @@
 ---
-title: "The Handwritten Letters 06.26"
+title: "I quit my job...and published paperbacks!"
 date: 2026-06-22T08:00:00-08:00
 slug: "the-handwritten-letters-06-26"
-description: "I quit my job...and published paperbacks!"
+description: "Get your literal hands on The Nymph Keepers trilogy at last! (The Handwritten Letters 06.26)"
 tags: [letters, writing]
 image:  '/images/blog/tnk-paperbacks.jpg'
 ---

@@ -1,8 +1,8 @@
 ---
-title: "The Handwritten Letters 07.26"
+title: "66,000 words and one very angry goat"
 date: 2026-07-20T08:00:00-08:00
 slug: "the-handwritten-letters-07-26"
-description: "66,000 words and one very angry goat"
+description: "Also, I have a new hobby now? (The Handwritten Letters 07.26)"
 tags: [letters, writing]
 image:  '/images/blog/the_handwrittenletters-07-26.jpg'
 ---

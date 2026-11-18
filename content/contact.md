@@ -12,11 +12,6 @@ image: ''
   </div>
 </div>
 
-To request a free sample edit, please include the following:
-- Title
-- Genre
-- Word count
-- A brief summary of your story
-- [What kind of editing you're looking for](/services) (and if you don't know, that's okay!)
+For rights, new business inquiries, media, events, and speaking engagements, please [contact my literary agent, Olivia Emerick, at Metamorphosis Literary Agency](mailto:oemerick@metamorphosisliteraryagency.com).
 
-For all other enquiries, a greeting and your message should do it. Feel free to tell me a bit about yourself too! I look forward to e-meeting you.
+For all other enquiries, a greeting and your message should do it. Feel free to tell me a bit about yourself! I look forward to e-meeting you.

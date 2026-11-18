@@ -1,8 +1,8 @@
 ---
-title: "The Handwritten Letters 05.26"
+title: "Let's Be Pen Pals!"
 date: 2026-05-08T08:00:00-08:00
 slug: "the-handwritten-letters-05-26"
-description: "When's the last time you got a handwritten letter?"
+description: "When's the last time you got a handwritten letter? (The Handwritten Letters 05.26)"
 tags: [letters, writing]
 image:  '/images/blog/the_handwritten_letters_title_card.jpg'
 ---

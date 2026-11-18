@@ -1,8 +1,8 @@
 ---
-title: "The Handwritten Letters 10.26"
+title: "Join me in purgatory?"
 date: 2026-10-28T01:00:00-08:00
 slug: "the-handwritten-letters-10-26"
-description: "Join me in purgatory?"
+description: "In other news: Granny Wri Mo is here (The Handwritten Letters 10.26)"
 tags: [letters, writing]
 image:  '/images/blog/the_handwrittenletters-10-26.jpg'
 ---
