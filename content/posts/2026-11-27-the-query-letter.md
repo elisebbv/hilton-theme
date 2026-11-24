@@ -2,28 +2,37 @@
 title: "The Query Letter that Got Me an Agent"
 date: 2026-11-26T01:00:00-08:00
 slug: "the-query-letter-that-got-me-an-agent"
-description: "After 2 years and 89 queries sent..."
+description: "All it took was an getting up close and personal with a few big bugs."
 tags: [writing, literary agent]
 image:  '/images/blog/the_query_letter.jpg'
 ---
 
-Whenever an author I know or follow receives an offer of representation from a literary agent, I want to know how many queries they sent, how many rejections they received, and what their query letter looked like.
+I never expected to be complimented on how I write about bugs. Insects. The bane of my existence, one of my top (ten?) fears. But here we are. Apparently, all it took for me to get an offer of representation was to stare deeply into the eyes of insects in maximum-zoom, unholy close-up photos so I could realistically write about their scuttling appendages and chitinous segments for 8 hours a day, 5 days a week, 7 weeks straight.
 
-Keep scrolling for query stats and the query letter that ultimately got her interest!
+Allow me to explain.
 
 ## The Author's First Circle of Purgatory
+I started querying this book in January 2025, and was actively querying until November 2026 (nearly 2 full years). During that time, I researched and emailed 89 different literary agents. In May of 2026, [Olivia Emerick](https://manuscriptwishlist.com/mswl-post/olivia-emerick/) of the [Metamorphosis Literary Agency](https://www.metamorphosisliteraryagency.com/about) (my now agent!), emailed back. She was interested in reading more of the latest version I had sent her. I sent her a partial of the manuscript. A few weeks later, she requested the full for consideration. And then in August 2026...
 
-For the uninitiated, a query letter in this context is a letter about the book and the author of that book, (ideally) personalized to a specific literary agent who that author hopes will want to read more, and eventually, try to pitch the book to publishers on the author's behalf.
+She turned it down.
 
-As of last week, I have officially hit this milestone in my writing career! It's hard to fully convey how huge of an accomplishment this is, while also holding the tension of everything that still has to happen in order for my book to actually sell. More on that to come, but in the meantime, some stats:
+I was getting out of the passenger seat of my friend's car, in the parking lot at a thrift store, when the email came in. All I could see was the greeting and the start of the email. There was no spoiler at the top to let me know what I was in for. After months of waiting, I opened the email and skimmed through to find the word "Unfortunately." It was there. My heart sank. But there, at the very end of the email, was a sliver of hope—a massive caveat.
 
-I started querying this book in January 2025 and was actively querying it until November 2026 (almost 2 full years). During that time, I researched and emailed 89 different literary agents. After sending 50 and not generating any interest, I made some minor revisions to the manuscript and to the opening of my query letter, and changed the book's title, before sending the remaining 39. In May of 2026, Olivia Emerick of Metamorphosis Literary (my now agent!), emailed back. She was interested in reading more of the latest version I had sent her, so I sent her a partial of the manuscript. And a few weeks later, she requested the full for consideration. And then in August 2026...she turned it down.
+Olivia enjoyed the story overall, but there were some key elements she wished to see more of. Namely, more big bugs. Which, to be fair, was the main point of the book. She wanted to know if I would consider revising the manuscript, and submitting it to her again for consideration.
 
-BUT! With a massive caveat. She had some edits in mind and was curious if I would consider revising the manuscript and submitting it to her again for consideration. We met. We talked. And that revision process is what ultimately led to us working together!  
+I wasn't about to turn down this chance. From her email, I was already pretty sure I liked her ideas. Her request for more bug horror highlighted something that had been niggling my mind throughout the query process. So we set up a call. We talked. And after 7 weeks of rewriting the book and the longest 6-week-wait of my life, she sent me an offer!  
 
 > "Your premise really stood out to me, and your insect horror was especially compelling."
 
-I never expected to receive a compliment related to insects, but there it is. A first time for everything!
+<div class="gallery-box">
+  <div class="gallery">
+    <a href="https://www.instagram.com/p/Cn4kXDaB2eI/?evlk=eTZuYTZiaG1zdnZq" target="_blank"><img src="/images/blog/bug-babies/Bug_Babies-January_2023_Quote.jpg" loading="lazy"></a>
+    <a href="https://www.instagram.com/p/CqIqHxFPi2-/?dmpr=MTk4ajdpaHJhZ25rcw==" target="_blank"><img src="/images/blog/bug-babies/Bug_Babies-March_2023_Quote.jpg" loading="lazy"></a>
+    <a href="https://www.instagram.com/p/CtzUrjhPmNj/?evlk=MW1jbXJ6MDFma2h3ag==" target="_blank"><img src="/images/blog/bug-babies/Bug_Babies-First_Lines_June_2023.jpg" loading="lazy"></a>
+  </div>
+</div>
+
+(I've been talking about this book for years over on Instagram. Check out those handwritten quotes at the links!)
 
 ## The Stats
 This is what my query stats looked like from January 2025 to November 2026:
@@ -34,7 +43,18 @@ This is what my query stats looked like from January 2025 to November 2026:
 - 61 form rejections
 - 3 personalized rejections
 
-## The Query Letter I Sent
+## The Query Letter I Started With
+The first line of the first 50 queries I sent looked something like this: 
+
+>Devney Perry's _Shield of Sparrows_ meets Netflix's _Love and Monsters_ in DEATH TO THE FALSE QUEEN, a dual-POV, new adult, dark fantasy where giant bugs are commonplace and the scrapped princess and her hunting partner have learned to live with them—or die trying.
+
+I received 50 out of 50 form rejections for this pitch. (Eventually. A handful never answered at all.) 
+
+So I changed it. I tweaked the opening sample pages of my manuscript and reworked my query letter, including the title of my project, with little more than a hope and a prayer. Like so many authors in my position, I had no feedback to run with. Just vibes.
+
+Obviously, based on my last post, the changes worked.
+
+## The Query Letter that Won
 
 Dear Olivia,
 
@@ -55,6 +75,10 @@ Thank you for considering my work!
 Elise Volkman
 
 ## What's Next?
-As any author on their journey toward publishing will tell you, this is still quite an early step. Some might even say that, after this point, the hard work _really_ begins. But that would be insulting to writers of books everywhere, including self-published and indie authors who work incredibly hard. In the traditional publishing industry, though, this is only one early step with many more to come. 
+As any author on their journey toward publishing will tell you, this is still a very early step. Some might even say that, after this point, the hard work _really_ begins. But that would be insulting to querying writers of books everywhere, as well as self-published and indie authors who work incredibly hard to put their stories out into the world. 
+
+In the traditional publishing industry, though, this is only one early step with many more to come. Next, we polish the manuscript up to pitch it to publishers, and cross our fingers that this bug book goes places. Ideally, I get a book deal and become known as the bug-book girl. People send me bug photos and memes I can't open, because of my insect phobia. I kindly request that they stop, and they don't, because the internet is a feral hellscape.
+
+But for now? For now, we celebrate.
 
 If you'd like to follow along on my journey to publishing, [subscribe to Letters from Elise](https://b0545c87.sibforms.com/serve/MUIEAJoaIHDarefwiMHNFZ8SgpmNiMtZK00gGlUwUNgvJirO9qxDi7Ubzj9B1xJaQxTqZJA4MoOM6JRVJzAz_QIi_vZP8FPgdv2VMZ7oAvzc9-ZVAV61l8d919iURAxxnbxBDKWfFXCe-giargn6OqTgtVRdkztpTAqPDw5RDNEcv53PzryeitgaiAyARKRm3ZYwJD2jC6xOA09E) for a monthly, handwritten letter from my inbox to yours! 🐌

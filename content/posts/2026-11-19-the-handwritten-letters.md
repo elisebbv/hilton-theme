@@ -25,7 +25,7 @@ And after eight years of following steps one through three, it finally happened.
 
 I've been dreaming of sharing this news for the last eight years. I hope to be riding this high for the NEXT eight years as well (though, fortunately or unfortunately, I do know that's not how this works).
 
-All that to say: 8 years, 3 books, and 150 rejections from publishing professionals later, I am officially represented by [Olivia Emerick](https://manuscriptwishlist.com/mswl-post/olivia-emerick/) of the [Metamorphosis Literary Agency](https://manuscriptwishlist.com/mswl-post/olivia-emerick/)!
+All that to say: 8 years, 3 books, and 150 rejections from publishing professionals later, I am officially represented by [Olivia Emerick](https://manuscriptwishlist.com/mswl-post/olivia-emerick/) of the [Metamorphosis Literary Agency](https://www.metamorphosisliteraryagency.com/about)!
 
 I'll be sharing more about what that means and what comes next in future letters, but for now I'm off to celebrate like I won the lottery! (Minus the irresponsible spending of as-yet fictional cash.) If you'd like an excuse for a little treat, get yourself something in my honour the next time you're out and about! I'd love to celebrate this milestone with you!
 
