@@ -1,6 +1,6 @@
 ---
 title: "The Query Letter that Got Me an Agent"
-date: 2026-11-26T01:00:00-08:00
+date: 2026-11-25T01:00:00-08:00
 slug: "the-query-letter-that-got-me-an-agent"
 description: "All it took was an getting up close and personal with a few big bugs."
 tags: [writing, literary agent]

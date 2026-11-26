@@ -6,20 +6,27 @@
     <description>Recent content in Tags on Elise Volkman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 01:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:00:00 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Letters</title>
-      <link>http://localhost:1313/tags/letters/</link>
-      <pubDate>Wed, 18 Nov 2026 01:00:00 -0800</pubDate>
-      <guid>http://localhost:1313/tags/letters/</guid>
+      <title>Literary Agent</title>
+      <link>http://localhost:1313/tags/literary-agent/</link>
+      <pubDate>Thu, 26 Nov 2026 01:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/tags/literary-agent/</guid>
       <description></description>
     </item>
     <item>
       <title>Writing</title>
       <link>http://localhost:1313/tags/writing/</link>
-      <pubDate>Wed, 18 Nov 2026 01:00:00 -0800</pubDate>
+      <pubDate>Thu, 26 Nov 2026 01:00:00 -0800</pubDate>
       <guid>http://localhost:1313/tags/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Letters</title>
+      <link>http://localhost:1313/tags/letters/</link>
+      <pubDate>Wed, 18 Nov 2026 01:00:00 -0800</pubDate>
+      <guid>http://localhost:1313/tags/letters/</guid>
       <description></description>
     </item>
     <item>
